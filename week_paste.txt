@@ -1,16 +1,20 @@
 === YAHOO ===
-SEA @ NE +3.5
-LAR @ SF +3.5
-CIN @ TB +3.5
-TEN @ NYJ +1.5
+NE @ SEA -3.5
+SF @ LAR -3.5
+TB @ CIN -3.5
+NO @ DET -7
+NYJ @ TEN -1.5
 BAL @ IND +3.5
-PIT @ ATL +3.5
+ATL @ PIT -3.5
 CHI @ CAR +2.5
-JAX @ CLE +8.5
+CLE @ JAX -8.5
 BUF @ HOU +1.5
-LV @ MIA +3.5
-MIN @ GB +1.5
+MIA @ LV -3.5
+GB @ MIN -1.5
+WAS @ PHI -5
+ARI @ LAC -10
 DAL @ NYG +2.5
+DEN @ KC -3
 
 === DRAFTKINGS ===
 SF @ LAR -3.5
@@ -31,4 +35,35 @@ DEN @ KC -2.5
 DET @ BUF -3
 
 === DVOA ===
-
+SEA 41.3%
+LAR 39.9%
+DET 21.5%
+HOU 19.0%
+IND 18.9%
+JAX 17.7%
+DEN 14.2%
+BUF 12.6%
+NE 10.6%
+SF 9.9%
+GB 9.5%
+PIT 8.2%
+BAL 7.3%
+PHI 7.3%
+KC 5.7%
+CHI 2.5%
+LAC 0.5%
+MIN -1.2%
+ATL -6.4%
+TB -8.2%
+CIN -8.3%
+DAL -11.2%
+WAS -12.9%
+CAR -13.4%
+MIA -13.4%
+NYG -15.1%
+ARI -18.5%
+NO -21.6%
+TEN -29.0%
+CLE -32.6%
+LV -32.9%
+NYJ -35.9%
