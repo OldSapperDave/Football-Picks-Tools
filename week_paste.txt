@@ -18,7 +18,7 @@ DEN @ KC -3
 
 === DRAFTKINGS ===
 SF @ LAR -3.5
-ATL @ PIT -4.5
+ATL @ PIT -5.5
 BAL @ IND +3.5
 BUF @ HOU +1.5
 CHI @ CAR +3
