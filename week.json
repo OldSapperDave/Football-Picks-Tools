@@ -100,6 +100,40 @@
     "DAL@NYG": 3.0,
     "DEN@KC": -2.5
   },
+  "consensus": {
+    "SF@LAR": -3.5,
+    "ATL@PIT": -4.5,
+    "BAL@IND": 3.5,
+    "BUF@HOU": 1.0,
+    "CHI@CAR": 3.0,
+    "TB@CIN": -4.0,
+    "CLE@JAX": -8.5,
+    "NO@DET": -7.0,
+    "NYJ@TEN": -1.5,
+    "ARI@LAC": -9.5,
+    "GB@MIN": -1.5,
+    "MIA@LV": -3.0,
+    "WAS@PHI": -5.5,
+    "DAL@NYG": 3.0,
+    "DEN@KC": -2.5
+  },
+  "pinnacle": {
+    "SF@LAR": -3.5,
+    "ATL@PIT": -3.5,
+    "BAL@IND": 3.5,
+    "BUF@HOU": 1.0,
+    "CHI@CAR": 3.0,
+    "TB@CIN": -4.0,
+    "CLE@JAX": -9.5,
+    "NO@DET": -7.0,
+    "NYJ@TEN": -1.0,
+    "ARI@LAC": -9.5,
+    "GB@MIN": -1.0,
+    "MIA@LV": -3.0,
+    "WAS@PHI": -5.5,
+    "DAL@NYG": 2.5,
+    "DEN@KC": -3.0
+  },
   "dvoa": {
     "SEA": 41.3,
     "LAR": 39.9,
@@ -135,6 +169,6 @@
     "NYJ": -35.9
   },
   "ftn_proj": {},
-  "pulled_at": "2026-09-10 20:06",
+  "pulled_at": "2026-09-10 20:14",
   "dvoa_season": "2025"
 }
