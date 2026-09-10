@@ -34,6 +34,6 @@ jobs:
         run: |
           git config user.name "picks-bot"
           git config user.email "picks-bot@users.noreply.github.com"
-          git add week.json week_paste.txt
+          git add week.json week_paste.txt debug_*.txt
           git commit -m "Pull $(date -u +%F)" || echo "nothing changed"
           git push
