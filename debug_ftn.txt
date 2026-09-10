@@ -1,0 +1,260 @@
+Fantasy
+DFS
+Betting
+Stats
+Sports
+More
+Stats IQ
+FTN Almanac
+Log In
+Sign Up
+Join Now
+Team Total DVOA
+DAVE
+Offensive DVOA
+Defensive DVOA
+Adjusted Line Yards
+Defense vs Receiver
+Special Teams DVOA
+DVOA Game Projections
+Team Total DVOA
+
+Looking to download DVOA data? Click here
+
+2025
+Regular Season Only
+TEAM
+TOT DVOA
+Rank
+NON-ADJ VOA
+W-L
+LAST YEAR
+Off DVOA
+Rank
+Def DVOA
+Rank
+ST DVOA
+Rank
+Off VOA
+Def VOA
+ST VOA
+EST WINS
+Rank
+WEI DVOA
+Rank
+SCHED
+Rank
+FUTURE
+Rank
+VAR
+Rank
+Week
+Year
+SEA
+41.3%
+1
+18
+2025
+LAR
+39.9%
+2
+18
+2025
+DET
+21.5%
+3
+18
+2025
+HOU
+19.0%
+4
+18
+2025
+IND
+18.9%
+5
+18
+2025
+JAX
+17.7%
+6
+18
+2025
+DEN
+14.2%
+7
+18
+2025
+BUF
+12.6%
+8
+18
+2025
+NE
+10.6%
+9
+18
+2025
+SF
+9.9%
+10
+18
+2025
+GB
+9.5%
+11
+18
+2025
+PIT
+8.2%
+12
+18
+2025
+BAL
+7.3%
+13
+18
+2025
+PHI
+7.3%
+14
+18
+2025
+KC
+5.7%
+15
+18
+2025
+CHI
+2.5%
+16
+18
+2025
+LAC
+0.5%
+17
+18
+2025
+MIN
+-1.2%
+18
+18
+2025
+ATL
+-6.4%
+19
+18
+2025
+TB
+-8.2%
+20
+18
+2025
+CIN
+-8.3%
+21
+18
+2025
+DAL
+-11.2%
+22
+18
+2025
+WAS
+-12.9%
+23
+18
+2025
+CAR
+-13.4%
+25
+18
+2025
+MIA
+-13.4%
+24
+18
+2025
+NYG
+-15.1%
+26
+18
+2025
+ARI
+-18.5%
+27
+18
+2025
+NO
+-21.6%
+28
+18
+2025
+TEN
+-29.0%
+29
+18
+2025
+CLE
+-32.6%
+30
+18
+2025
+LV
+-32.9%
+31
+18
+2025
+NYJ
+-35.9%
+32
+18
+2025
+Total Rows: 32
+
+FTN’s proprietary DVOA (Defense-adjusted Value Over Average) system breaks down every single NFL play and compares a team’s performance to a league-average baseline base on situation and opponent. It is explained further in this article.
+
+Offense and Defense DVOA are adjusted based on strength of opponent (beginning after Week 4) and indoors/outdoors. DVOA considers all fumbles, kept or lost, as equal value. Performance in the fourth quarter of blowouts is downweighted. Special Teams DVOA is adjusted for type of stadium (warm, cold, dome, Denver) and week of season. Non-Adjusted Total VOA does not include these adjustments.
+
+Positive numbers represent more points so Defense DVOA is better when it is NEGATIVE.
+
+ESTIMATED WINS uses a statistic known as “Forest Index” that emphasizes consistency as well as DVOA in the most important specific situations: red zone defense, first quarter offense, and performance in the second half when the score is close. It then projects a number of wins adjusted to a league-average schedule and a league-average rate of recovering fumbles. Teams that have had a bye week are listed with estimated wins as if they have not had a bye week yet (until all teams have had their bye week).
+WEIGHTED DVOA is adjusted so that earlier games in the season become gradually less important. It better reflects how the team was playing at the end of the season.
+PAST SCHEDULE lists average DVOA of opponents played this season, ranked from hardest schedule (No. 1, most positive) to easiest schedule (No. 32, most negative). FUTURE SCHEDULE is based on current DVOA, without considering preseason projections.
+PYTHAGOREAN WINS represent a projection of the team’s expected wins based solely on points scored and allowed. This stat is not displayed for the current season.
+VARIANCE measures the statistical variance of the team’s weekly DVOA performance. Teams are ranked from most consistent (No. 1, lowest variance) to least consistent (No. 32, highest variance).
+REALMS
+Fantasy
+DFS
+Stats
+Betting
+Data
+SPORTS
+NFL
+MLB
+PGA
+NBA
+POPULAR TOOLS
+Fantasy Football Rankings
+NFL Projections
+DVOA
+NFL Stats
+Player Props
+FREE NEWSLETTER
+THEME
+Light
+System
+Night
+About Us
+FAQ
+Privacy Policy
+Terms of Service
+Contact Us
+
+© 2026 FTN. All rights reserved.
+
+Must be 18+ (19+ in AL, NE; 19+ in CO for some games; 21+ in AZ, MA, and VA) and present in a state where partners operate. Terms apply.
+
+Concerned with your play? Call 1-800-MY-RESET or 1-800-GAMBLER or visit ncpgambling.org.
+
+NY: Call the 24/7 HOPEline at 1-877-8-HOPENY Text HOPENY (467369)
