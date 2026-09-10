@@ -85,7 +85,7 @@
   },
   "dk": {
     "SF@LAR": -3.5,
-    "ATL@PIT": -3.5,
+    "ATL@PIT": -4.5,
     "BAL@IND": 3.5,
     "BUF@HOU": 1.5,
     "CHI@CAR": 3.0,
@@ -134,6 +134,7 @@
     "LV": -32.9,
     "NYJ": -35.9
   },
-  "pulled_at": "2026-09-10 15:35",
+  "ftn_proj": {},
+  "pulled_at": "2026-09-10 18:57",
   "dvoa_season": "2025"
 }
