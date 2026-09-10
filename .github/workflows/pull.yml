@@ -21,7 +21,7 @@ jobs:
       - name: Scrape
         env:
           YAHOO_COOKIES: ${{ secrets.YAHOO_COOKIES }}
-          FTN_COOKIES: ${{ secrets.FTN_COOKIES }}
+          FTN_COOKIES: ${{ secrets.FTN_COOKIE }}
           ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
         run: python scrape_picks.py pull
       - name: Keep debug output as an artifact
