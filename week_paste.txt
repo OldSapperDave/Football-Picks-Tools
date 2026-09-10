@@ -32,7 +32,6 @@ MIA @ LV -3
 WAS @ PHI -5.5
 DAL @ NYG +3
 DEN @ KC -2.5
-DET @ BUF -3
 
 === DVOA ===
 SEA 41.3%
