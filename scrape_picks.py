@@ -186,10 +186,10 @@ def open_browser(pw, headless):
     """
     Two auth modes:
       - local: persistent profile in ./browser_profile (created by `login`)
-      - CI:    YAHOO_COOKIES / FTN_COOKIE env vars holding the raw Cookie header
+      - CI:    YAHOO_COOKIES / FTN_COOKIES env vars holding the raw Cookie header
                from a logged-in browser session (no profile needed)
     """
-    yc, fc = os.environ.get("YAHOO_COOKIES"), os.environ.get("FTN_COOKIE")
+    yc, fc = os.environ.get("YAHOO_COOKIES"), os.environ.get("FTN_COOKIES")
     if yc or fc:
         browser = pw.chromium.launch(headless=headless)
         ctx = browser.new_context(viewport={"width": 1300, "height": 900},
