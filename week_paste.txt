@@ -17,8 +17,7 @@ DAL @ NYG +2.5
 DEN @ KC -3
 
 === DRAFTKINGS ===
-SF @ LAR -3.5
-ATL @ PIT -5.5
+ATL @ PIT -6
 BAL @ IND +3.5
 BUF @ HOU +1.5
 CHI @ CAR +3
@@ -29,7 +28,7 @@ NYJ @ TEN -1.5
 ARI @ LAC -9.5
 GB @ MIN -1.5
 MIA @ LV -3
-WAS @ PHI -5.5
+WAS @ PHI -6
 DAL @ NYG +3
 DEN @ KC -2.5
 
