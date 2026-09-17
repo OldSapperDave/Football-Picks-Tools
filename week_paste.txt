@@ -19,11 +19,11 @@ NYG @ LAR -7.5
 === DRAFTKINGS ===
 DET @ BUF -5.5
 CAR @ ATL +2.5
-NO @ BAL -7.5
-MIN @ CHI -5.5
-CIN @ HOU -3
+NO @ BAL -8.5
+MIN @ CHI -4.5
+CIN @ HOU -2.5
 CLE @ TB -8.5
-GB @ NYJ +4.5
+GB @ NYJ +3.5
 PIT @ NE -5.5
 PHI @ TEN +7
 JAX @ DEN -2.5
