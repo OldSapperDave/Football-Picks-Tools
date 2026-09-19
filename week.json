@@ -107,7 +107,7 @@
     "CIN@HOU": -2.5,
     "CLE@TB": -8.5,
     "GB@NYJ": 3.5,
-    "PIT@NE": -5.5,
+    "PIT@NE": -5.0,
     "PHI@TEN": 7.0,
     "JAX@DEN": -2.5,
     "LV@LAC": -6.5,
@@ -120,7 +120,7 @@
   "pinnacle": {
     "CAR@ATL": 2.5,
     "NO@BAL": -9.0,
-    "MIN@CHI": -5.5,
+    "MIN@CHI": -4.5,
     "CIN@HOU": -3.0,
     "CLE@TB": -9.0,
     "GB@NYJ": 3.0,
@@ -185,7 +185,24 @@
     "CLE": -75.6,
     "TEN": -88.3
   },
-  "ftn_proj": {},
-  "pulled_at": "2026-09-19 15:05",
+  "ftn_proj": {
+    "BUF@DET": 5.5,
+    "NYJ@GB": -1.0,
+    "CHI@MIN": 6.5,
+    "NE@PIT": 3.5,
+    "ATL@CAR": -5.0,
+    "TB@CLE": 12.0,
+    "HOU@CIN": 1.0,
+    "BAL@NO": 10.0,
+    "TEN@PHI": -6.5,
+    "LAC@LV": 6.0,
+    "DEN@JAX": -1.0,
+    "DAL@WAS": 6.0,
+    "ARI@SEA": -3.0,
+    "SF@MIA": 8.0,
+    "KC@IND": 4.0,
+    "LAR@NYG": 8.5
+  },
+  "pulled_at": "2026-09-19 17:53",
   "dvoa_season": "2026"
 }

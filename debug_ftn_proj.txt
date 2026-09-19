@@ -1,0 +1,17 @@
+Week | Home | Away | Home Pts | Away Pts
+2 | BUF | DET | 27.6 | 22.0
+2 | NYJ | GB | 21.2 | 22.3
+2 | CHI | MIN | 25.5 | 19.1
+2 | NE | PIT | 23.2 | 19.9
+2 | ATL | CAR | 19.7 | 24.6
+2 | TB | CLE | 26.3 | 14.1
+2 | HOU | CIN | 26.0 | 24.9
+2 | BAL | NO | 28.1 | 18.3
+2 | TEN | PHI | 18.1 | 24.6
+2 | LAC | LV | 24.8 | 18.8
+2 | DEN | JAX | 22.6 | 23.4
+2 | DAL | WAS | 27.4 | 21.6
+2 | ARI | SEA | 22.3 | 25.2
+2 | SF | MIA | 27.3 | 19.1
+2 | KC | IND | 24.9 | 20.9
+2 | LAR | NYG | 28.0 | 19.4
