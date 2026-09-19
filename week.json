@@ -19,64 +19,64 @@
   },
   "yahoo_pick_pct": {
     "DET@BUF": {
-      "DET": 29,
-      "BUF": 71
+      "DET": 28,
+      "BUF": 72
     },
     "CAR@ATL": {
-      "CAR": 71,
-      "ATL": 29
+      "CAR": 73,
+      "ATL": 27
     },
     "MIN@CHI": {
-      "MIN": 25,
-      "CHI": 75
+      "MIN": 26,
+      "CHI": 74
     },
     "PHI@TEN": {
       "PHI": 88,
       "TEN": 12
     },
     "PIT@NE": {
-      "PIT": 42,
-      "NE": 58
+      "PIT": 43,
+      "NE": 57
     },
     "GB@NYJ": {
-      "GB": 74,
-      "NYJ": 26
+      "GB": 73,
+      "NYJ": 27
     },
     "CLE@TB": {
-      "CLE": 18,
-      "TB": 82
+      "CLE": 17,
+      "TB": 83
     },
     "NO@BAL": {
-      "NO": 33,
-      "BAL": 67
+      "NO": 35,
+      "BAL": 65
     },
     "CIN@HOU": {
       "CIN": 45,
       "HOU": 55
     },
     "JAX@DEN": {
-      "JAX": 50,
-      "DEN": 50
+      "JAX": 52,
+      "DEN": 48
     },
     "LV@LAC": {
-      "LV": 46,
-      "LAC": 54
+      "LV": 45,
+      "LAC": 55
     },
     "WAS@DAL": {
-      "WAS": 36,
-      "DAL": 64
+      "WAS": 35,
+      "DAL": 65
     },
     "SEA@ARI": {
-      "SEA": 76,
-      "ARI": 24
+      "SEA": 75,
+      "ARI": 25
     },
     "MIA@SF": {
-      "MIA": 25,
-      "SF": 75
+      "MIA": 26,
+      "SF": 74
     },
     "IND@KC": {
-      "IND": 18,
-      "KC": 82
+      "IND": 19,
+      "KC": 81
     },
     "NYG@LAR": {
       "NYG": 58,
@@ -84,7 +84,6 @@
     }
   },
   "dk": {
-    "DET@BUF": -5.5,
     "CAR@ATL": 2.5,
     "NO@BAL": -8.5,
     "MIN@CHI": -4.5,
@@ -96,20 +95,19 @@
     "JAX@DEN": -2.5,
     "LV@LAC": -6.5,
     "SEA@ARI": 3.5,
-    "WAS@DAL": -4.5,
+    "WAS@DAL": -3.5,
     "MIA@SF": -13.5,
-    "IND@KC": -6.5,
+    "IND@KC": -6.0,
     "NYG@LAR": -7.0
   },
   "consensus": {
-    "DET@BUF": -5.5,
     "CAR@ATL": 2.5,
-    "NO@BAL": -8.0,
+    "NO@BAL": -8.5,
     "MIN@CHI": -4.5,
     "CIN@HOU": -2.5,
     "CLE@TB": -8.5,
     "GB@NYJ": 3.5,
-    "PIT@NE": -5.0,
+    "PIT@NE": -5.5,
     "PHI@TEN": 7.0,
     "JAX@DEN": -2.5,
     "LV@LAC": -6.5,
@@ -120,7 +118,6 @@
     "NYG@LAR": -7.0
   },
   "pinnacle": {
-    "DET@BUF": -5.5,
     "CAR@ATL": 2.5,
     "NO@BAL": -9.0,
     "MIN@CHI": -5.5,
@@ -134,11 +131,10 @@
     "SEA@ARI": 4.0,
     "WAS@DAL": -4.0,
     "MIA@SF": -13.5,
-    "IND@KC": -7.0,
-    "NYG@LAR": -7.0
+    "IND@KC": -6.0,
+    "NYG@LAR": -7.5
   },
   "kickoff": {
-    "DET@BUF": "2026-09-18T00:15:00Z",
     "CAR@ATL": "2026-09-20T17:00:00Z",
     "NO@BAL": "2026-09-20T17:00:00Z",
     "MIN@CHI": "2026-09-20T17:00:00Z",
@@ -190,6 +186,6 @@
     "TEN": -88.3
   },
   "ftn_proj": {},
-  "pulled_at": "2026-09-17 15:57",
+  "pulled_at": "2026-09-19 15:05",
   "dvoa_season": "2026"
 }

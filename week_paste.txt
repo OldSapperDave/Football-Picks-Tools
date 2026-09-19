@@ -17,7 +17,6 @@ IND @ KC -6.5
 NYG @ LAR -7.5
 
 === DRAFTKINGS ===
-DET @ BUF -5.5
 CAR @ ATL +2.5
 NO @ BAL -8.5
 MIN @ CHI -4.5
@@ -29,9 +28,9 @@ PHI @ TEN +7
 JAX @ DEN -2.5
 LV @ LAC -6.5
 SEA @ ARI +3.5
-WAS @ DAL -4.5
+WAS @ DAL -3.5
 MIA @ SF -13.5
-IND @ KC -6.5
+IND @ KC -6
 NYG @ LAR -7
 
 === DVOA ===

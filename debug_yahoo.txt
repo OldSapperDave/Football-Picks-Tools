@@ -5,8 +5,8 @@ News
 Finance
 Sports
 More
-99+
-D
+Mail
+Sign in
  Pro Football Pick'em
 Pro Football Pick'em
 My Picks & Groups
@@ -94,25 +94,9 @@ matchup information
 @Buffalo
 	
 	vs	
-	Detroit	3.5	4.5	4.5	4.5	Thu 09/17 08:15 PM	
--
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-
+	Detroit	3.5	4.5	4.5	4.5	
+Incorrect
+Buf 41, Det 31	6
 
 matchup information
 	
@@ -496,75 +480,8 @@ Predict the scores for these games:
 New York (NYG)		@		Los Angeles (LAR)
 Indianapolis		@		Kansas City
 Tiebreaker 2 Deadline Thu, Sep 17 8:10 pm EDT
-Who will score the MOST points this week?	
-Select Team
-Arizona
-Atlanta
-Baltimore
-Buffalo
-Carolina
-Chicago
-Cincinnati
-Cleveland
-Dallas
-Denver
-Detroit
-Green Bay
-Houston
-Indianapolis
-Jacksonville
-Kansas City
-Las Vegas
-Los Angeles (LAC)
-Los Angeles (LAR)
-Miami
-Minnesota
-New England
-New Orleans
-New York (NYG)
-New York (NYJ)
-Philadelphia
-Pittsburgh
-San Francisco
-Seattle
-Tampa Bay
-Tennessee
-Washington
-
-Who will score the FEWEST points this week?	
-Select Team
-Arizona
-Atlanta
-Baltimore
-Buffalo
-Carolina
-Chicago
-Cincinnati
-Cleveland
-Dallas
-Denver
-Detroit
-Green Bay
-Houston
-Indianapolis
-Jacksonville
-Kansas City
-Las Vegas
-Los Angeles (LAC)
-Los Angeles (LAR)
-Miami
-Minnesota
-New England
-New Orleans
-New York (NYG)
-New York (NYJ)
-Philadelphia
-Pittsburgh
-San Francisco
-Seattle
-Tampa Bay
-Tennessee
-Washington
+Who will score the MOST points this week?	Tampa Bay
+Who will score the FEWEST points this week?	Atlanta
 
 Deadline: 5 minutes before each game
 
@@ -573,45 +490,45 @@ Save Picks Cancel
 My Score
 Week 2
 NA
-0-0
+0-1
 Total Points
 49 pts
 Rank
 7/10
 W-L
-5-11
+5-12
 Pick Distribution - Week 2
 Game	Pick Distribution
-@ Buffalo (-4.5)	71%	 
-Detroit	29%	 
-Carolina (-2.5)	71%	 
-@ Atlanta	29%	 
-@ Chicago (-5.5)	75%	 
-Minnesota	25%	 
+@ Buffalo (-4.5)	72%	 
+Detroit	28%	 
+Carolina (-2.5)	73%	 
+@ Atlanta	27%	 
+@ Chicago (-5.5)	74%	 
+Minnesota	26%	 
 Philadelphia (-7.0)	88%	 
 @ Tennessee	12%	 
-@ New England (-4.5)	58%	 
-Pittsburgh	42%	 
-Green Bay (-3.5)	74%	 
-@ New York (NYJ)	26%	 
-@ Tampa Bay (-8.5)	82%	 
-Cleveland	18%	 
-@ Baltimore (-8.5)	67%	 
-New Orleans	33%	 
+@ New England (-4.5)	57%	 
+Pittsburgh	43%	 
+Green Bay (-3.5)	73%	 
+@ New York (NYJ)	27%	 
+@ Tampa Bay (-8.5)	83%	 
+Cleveland	17%	 
+@ Baltimore (-8.5)	65%	 
+New Orleans	35%	 
 @ Houston (-2.5)	55%	 
 Cincinnati	45%	 
-@ Denver (-2.5)	50%	 
-Jacksonville	50%	 
-@ Los Angeles (LAC) (-6.5)	54%	 
-Las Vegas	46%	 
-@ Dallas (-4.0)	64%	 
-Washington	36%	 
-Seattle (-4.0)	76%	 
-@ Arizona	24%	 
-@ San Francisco (-13.5)	75%	 
-Miami	25%	 
-@ Kansas City (-6.5)	82%	 
-Indianapolis	18%	 
+@ Denver (-2.5)	48%	 
+Jacksonville	52%	 
+@ Los Angeles (LAC) (-6.5)	55%	 
+Las Vegas	45%	 
+@ Dallas (-4.0)	65%	 
+Washington	35%	 
+Seattle (-4.0)	75%	 
+@ Arizona	25%	 
+@ San Francisco (-13.5)	74%	 
+Miami	26%	 
+@ Kansas City (-6.5)	81%	 
+Indianapolis	19%	 
 @ Los Angeles (LAR) (-7.5)	42%	 
 New York (NYG)	58%	 
 Strategy Tips from PoolGenius
@@ -621,7 +538,7 @@ What winning entries look like
 Why pool size matters
 Weekly vs. season-long strategy
 FREE TRIAL: Expert pick'em picks »
-Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Your Privacy Choices - CA Privacy Notice  - About Our Ads - Help
+Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Your Privacy Choices  - About Our Ads - Help
 
 Certain Data by Sportradar and Rotowire
 
