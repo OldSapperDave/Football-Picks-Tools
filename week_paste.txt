@@ -17,7 +17,7 @@ LAR @ DEN +2.5
 PHI @ CHI +4.5
 
 === DRAFTKINGS ===
-ATL @ GB -4.5
+ATL @ GB -5.5
 LAC @ BUF -7
 CAR @ CLE +2.5
 CIN @ PIT +3.5
