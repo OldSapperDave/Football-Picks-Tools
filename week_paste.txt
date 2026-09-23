@@ -1,5 +1,20 @@
 === YAHOO ===
-
+ATL @ GB -5.5
+LAC @ BUF -7
+CAR @ CLE +2.5
+NYJ @ DET -6.5
+HOU @ IND +2.5
+KC @ MIA +11.5
+TEN @ NYG -2.5
+CIN @ PIT +3.5
+SEA @ WAS +7
+NE @ JAX -3
+ARI @ SF -8.5
+MIN @ TB +1.5
+BAL @ DAL +3.5
+LV @ NO -3
+LAR @ DEN +2.5
+PHI @ CHI +4.5
 
 === DRAFTKINGS ===
 ATL @ GB -4.5
