@@ -1,86 +1,17 @@
-Fantasy
-DFS
-Betting
-Stats
-Sports
-More
-Stats IQ
-FTN Almanac
-Log In
-Sign Up
-Join Now
-Team Total DVOA
-DAVE
-Offensive DVOA
-Defensive DVOA
-Adjusted Line Yards
-Defense vs Receiver
-Special Teams DVOA
-DVOA Game Projections
-Subscribe to access premium features
-Football
-MOST POPULAR PLAN
-FTN Pro
-$9.17/mo
-billed annually, $109.99
-Included
-
-All Fantasy Football Tools & Content, Rankings, Projections, Advanced Stats, DVOA, League Sync, & Exclusive Access to Jeff Ratcliffe, Plus Everything in Core.
-
-                                                                                                                                                                                                
-Subscribe Now!
-All Sports
-BEST VALUE
-FTN GOAT
-$25.00/mo
-billed annually, $299.99
-Included
-
-Complete Access to all Fantasy, DFS, & Betting, plus Exclusive Discord Access. Add-Ons Available. See Q&A*
-
-                                                                                                                                                                                                
-Subscribe Now!
-Already have an account
-Log In
-
-Injury and player availability data used in game projections is provided by Dr. Matthew Provencher’s The Predictors, creators of the proprietary Banged Up Score (BUS).
-
-DVOA Game Projections
-
-Every week, Aaron Schatz runs his DVOA model to predict the outcome of every game. We will post the results in this table each week so you can see what DVOA predicts. If you are looking for betting picks, check out our betting model and bet tracker. Aaron gives his favorite picks each week, and posts them in the bet tracker before the games for betting subscribers to see.
-
-REALMS
-Fantasy
-DFS
-Stats
-Betting
-Data
-SPORTS
-NFL
-MLB
-PGA
-NBA
-POPULAR TOOLS
-Fantasy Football Rankings
-NFL Projections
-DVOA
-NFL Stats
-Player Props
-FREE NEWSLETTER
-THEME
-Light
-System
-Night
-About Us
-FAQ
-Privacy Policy
-Terms of Service
-Contact Us
-
-© 2026 FTN. All rights reserved.
-
-Must be 18+ (19+ in AL, NE; 19+ in CO for some games; 21+ in AZ, MA, and VA) and present in a state where partners operate. Terms apply.
-
-Concerned with your play? Call 1-800-MY-RESET or 1-800-GAMBLER or visit ncpgambling.org.
-
-NY: Call the 24/7 HOPEline at 1-877-8-HOPENY Text HOPENY (467369)
+Week | Home | Away | Home Pts | Away Pts
+3 | GB | ATL | 25.4 | 20.3
+3 | WAS | SEA | 16.3 | 26.4
+3 | PIT | CIN | 20.5 | 23.5
+3 | DET | NYJ | 26.6 | 20.5
+3 | NYG | TEN | 20.7 | 20.0
+3 | JAX | NE | 25.2 | 21.4
+3 | MIA | KC | 19.0 | 26.9
+3 | IND | HOU | 25.0 | 23.9
+3 | CLE | CAR | 18.2 | 22.7
+3 | BUF | LAC | 30.3 | 19.3
+3 | TB | MIN | 24.4 | 19.5
+3 | SF | ARI | 27.7 | 20.1
+3 | NO | LV | 23.1 | 23.6
+3 | DAL | BAL | 25.4 | 25.2
+3 | DEN | LAR | 23.6 | 25.9
+3 | CHI | PHI | 21.2 | 26.2

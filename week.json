@@ -207,8 +207,25 @@
     "ATL": -66.7,
     "MIA": -69.5
   },
-  "ftn_proj": {},
-  "pulled_at": "2026-09-23 20:21",
+  "ftn_proj": {
+    "ATL@GB": -5.0,
+    "SEA@WAS": 10.0,
+    "CIN@PIT": 3.0,
+    "NYJ@DET": -6.0,
+    "TEN@NYG": -0.5,
+    "NE@JAX": -4.0,
+    "KC@MIA": 8.0,
+    "HOU@IND": -1.0,
+    "CAR@CLE": 4.5,
+    "LAC@BUF": -11.0,
+    "MIN@TB": -5.0,
+    "ARI@SF": -7.5,
+    "LV@NO": 0.5,
+    "BAL@DAL": 0.0,
+    "LAR@DEN": 2.5,
+    "PHI@CHI": 5.0
+  },
+  "pulled_at": "2026-09-23 20:26",
   "yahoo_source": "league page (cookie)",
   "dvoa_season": "2026"
 }

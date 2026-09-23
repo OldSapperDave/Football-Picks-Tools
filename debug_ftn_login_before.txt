@@ -1,0 +1,232 @@
+A type= name= id= ph= text=
+A type= name= id= ph= text=Stats IQ
+A type= name= id= ph= text=FTN Almanac
+BUTTON type=submit name= id=0 ph= text=
+BUTTON type=submit name= id=1 ph= text=
+BUTTON type=submit name= id=2 ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+BUTTON type=submit name= id=0 ph= text=
+BUTTON type=submit name= id=1 ph= text=
+BUTTON type=submit name= id=2 ph= text=
+BUTTON type=submit name= id=3 ph= text=
+BUTTON type=submit name= id=4 ph= text=
+BUTTON type=submit name= id=5 ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+BUTTON type=submit name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=Log In
+A type= name= id= ph= text=Sign Up
+A type= name= id= ph= text=Join Now
+A type= name= id= ph= text=Email Address
+Enter Password
+INPUT type=text name=modal-sign-in-email id= ph=email@example.com text=
+INPUT type=password name=modal-sign-in-password id= ph=Password text=
+A type= name= id= ph= text=Forgot Password?
+BUTTON type=submit name= id= ph= text=Sign In
+A type= name= id= ph= text=Sign Up
+A type= name= id= ph= text=
+INPUT type=text name=search id= ph=Search for Players, Teams, Tools, Articles and Media  text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=Fantasy
+A type= name= id= ph= text=DFS
+A type= name= id= ph= text=Stats
+A type= name= id= ph= text=Betting
+A type= name= id= ph= text=Data
+A type= name= id= ph= text=NFL
+A type= name= id= ph= text=MLB
+A type= name= id= ph= text=PGA
+A type= name= id= ph= text=NBA
+A type= name= id= ph= text=Fantasy Football Rankings
+A type= name= id= ph= text=NFL Projections
+A type= name= id= ph= text=DVOA
+A type= name= id= ph= text=NFL Stats
+A type= name= id= ph= text=Player Props
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=
+A type= name= id= ph= text=About Us
+A type= name= id= ph= text=FAQ
+A type= name= id= ph= text=Privacy Policy
+A type= name= id= ph= text=Terms of Service
+A type= name= id= ph= text=Contact Us
+A type= name= id= ph= text=1-800-MY-RESET
+A type= name= id= ph= text=1-800-GAMBLER
+A type= name= id= ph= text=ncpgambling.org
+A type= name= id= ph= text=1-877-8-HOPENY
+A type= name= id= ph= text=(467369)
+
+----- page text -----
+Fantasy
+DFS
+Betting
+Stats
+Sports
+More
+Stats IQ
+FTN Almanac
+Log In
+Sign Up
+Join Now
+LOG IN
+Email Address
+Enter Password
+Forgot Password?
+Sign In
+Don’t have an account?
+Sign Up
+REALMS
+Fantasy
+DFS
+Stats
+Betting
+Data
+SPORTS
+NFL
+MLB
+PGA
+NBA
+POPULAR TOOLS
+Fantasy Football Rankings
+NFL Projections
+DVOA
+NFL Stats
+Player Props
+FREE NEWSLETTER
+THEME
+Light
+System
+Night
+About Us
+FAQ
+Privacy Policy
+Terms of Service
+Contact Us
+
+© 2026 FTN. All rights reserved.
+
+Must be 18+ (19+ in AL, NE; 19+ in CO for some games; 21+ in AZ, MA, and VA) and present in a state where partners operate. Terms apply.
+
+Concerned with your play? Call 1-800-MY-RESET or 1-800-GAMBLER or visit ncpgambling.org.
+
+NY: Call the 24/7 HOPEline at 1-877-8-HOPENY Text HOPENY (467369)
