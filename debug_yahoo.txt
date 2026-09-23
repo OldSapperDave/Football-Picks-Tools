@@ -14,8 +14,16 @@ Pick Distribution
 Fantasy
 Watch
 Network
-Yahoo Sports Fantasy Pro Football Pickem
-PICK DISTRIBUTION
+BUCCBUDDIES 
+In Groups:
+Sharpest Squares
+Sharpest Squares Navigation
+Overview
+Group Picks
+Weekly Performance
+Message Board
+Members
+Settings
 Week: 
 1
 2
@@ -40,219 +48,572 @@ Playoffs:
 2
 3
 4
-No Spread or Confidence
-Spread Only
-Confidence Only
-Spread and Confidence
-Thursday, Sep 24, 8:15 pm EDT
-Favorite
-@ Green Bay
-Favorite Pick Percentage
-97%
-Underdog
-Atlanta
-Underdog Pick Percentage
-3%
-GB		ATL
-N/A	Avg. Confidence	N/A
-1-1 (0-0)	Record	0-2 (0-1)
-5.5 pts	Favorite	 
-Sunday, Sep 27, 1:00 pm EDT
-Favorite
-@ Buffalo
-Favorite Pick Percentage
-98%
-Underdog
-Los Angeles (LAC)
-Underdog Pick Percentage
-2%
-BUF		LAC
-N/A	Avg. Confidence	N/A
-2-0 (1-0)	Record	0-2 (0-0)
-7.0 pts	Favorite	 
-Sunday, Sep 27, 1:00 pm EDT
-Favorite
-Carolina
-Favorite Pick Percentage
-88%
-Underdog
-@ Cleveland
-Underdog Pick Percentage
-12%
-CAR		CLE
-N/A	Avg. Confidence	N/A
-1-1 (1-0)	Record	1-1 (0-0)
-2.5 pts	Favorite	 
-Sunday, Sep 27, 1:00 pm EDT
-Favorite
-@ Detroit
-Favorite Pick Percentage
-97%
-Underdog
-New York (NYJ)
-Underdog Pick Percentage
-3%
-DET		NYJ
-N/A	Avg. Confidence	N/A
-1-1 (1-0)	Record	1-1 (1-0)
-6.5 pts	Favorite	 
-Sunday, Sep 27, 1:00 pm EDT
-Favorite
-Houston
-Favorite Pick Percentage
-50%
-Underdog
-@ Indianapolis
-Underdog Pick Percentage
-50%
-HOU		IND
-N/A	Avg. Confidence	N/A
-0-2 (0-0)	Record	0-2 (0-1)
-2.5 pts	Favorite	 
-Sunday, Sep 27, 1:00 pm EDT
-Favorite
-Kansas City
-Favorite Pick Percentage
-98%
-Underdog
-@ Miami
-Underdog Pick Percentage
-2%
-KC		MIA
-N/A	Avg. Confidence	N/A
-2-0 (0-0)	Record	0-2 (0-0)
-11.5 pts	Favorite	 
-Sunday, Sep 27, 1:00 pm EDT
-Favorite
-@ New York (NYG)
-Favorite Pick Percentage
-70%
-Underdog
-Tennessee
-Underdog Pick Percentage
-30%
-NYG		TEN
-N/A	Avg. Confidence	N/A
-1-1 (1-0)	Record	0-2 (0-0)
-2.5 pts	Favorite	 
-Sunday, Sep 27, 1:00 pm EDT
-Favorite
-Cincinnati
-Favorite Pick Percentage
-86%
-Underdog
-@ Pittsburgh
-Underdog Pick Percentage
-14%
-CIN		PIT
-N/A	Avg. Confidence	N/A
-2-0 (1-0)	Record	1-1 (1-0)
-3.5 pts	Favorite	 
-Sunday, Sep 27, 1:00 pm EDT
-Favorite
-Seattle
-Favorite Pick Percentage
-98%
-Underdog
-@ Washington
-Underdog Pick Percentage
-2%
-SEA		WAS
-N/A	Avg. Confidence	N/A
-2-0 (1-0)	Record	0-2 (0-0)
-7.0 pts	Favorite	 
-Sunday, Sep 27, 1:00 pm EDT
-Favorite
-@ Jacksonville
-Favorite Pick Percentage
-65%
-Underdog
-New England
-Underdog Pick Percentage
-35%
-JAX		NE
-N/A	Avg. Confidence	N/A
-1-1 (1-0)	Record	1-1 (0-1)
-3.0 pts	Favorite	 
-Sunday, Sep 27, 4:05 pm EDT
-Favorite
-@ San Francisco
-Favorite Pick Percentage
-99%
-Underdog
-Arizona
-Underdog Pick Percentage
-1%
-SF		ARI
-N/A	Avg. Confidence	N/A
-2-0 (1-0)	Record	1-1 (1-0)
-8.5 pts	Favorite	 
-Sunday, Sep 27, 4:05 pm EDT
-Favorite
-Minnesota
-Favorite Pick Percentage
-58%
-Underdog
-@ Tampa Bay
-Underdog Pick Percentage
-42%
-MIN		TB
-N/A	Avg. Confidence	N/A
-2-0 (1-0)	Record	0-2 (0-1)
-1.5 pts	Favorite	 
-Sunday, Sep 27, 4:25 pm EDT
-Favorite
-Baltimore
-Favorite Pick Percentage
-64%
-Underdog
-@ Dallas
-Underdog Pick Percentage
-36%
-BAL		DAL
-N/A	Avg. Confidence	N/A
-1-1 (1-0)	Record	1-1 (1-0)
-3.5 pts	Favorite	 
-Sunday, Sep 27, 4:25 pm EDT
-Favorite
-@ New Orleans
-Favorite Pick Percentage
-78%
-Underdog
-Las Vegas
-Underdog Pick Percentage
-22%
-NO		LV
-N/A	Avg. Confidence	N/A
-1-1 (0-0)	Record	2-0 (1-0)
-3.0 pts	Favorite	 
-Sunday, Sep 27, 8:20 pm EDT
-Favorite
-Los Angeles (LAR)
-Favorite Pick Percentage
-73%
-Underdog
-@ Denver
-Underdog Pick Percentage
-27%
-LAR		DEN
-N/A	Avg. Confidence	N/A
-1-1 (0-0)	Record	1-1 (1-0)
-2.5 pts	Favorite	 
-Monday, Sep 28, 8:15 pm EDT
-Favorite
-Philadelphia
-Favorite Pick Percentage
-89%
-Underdog
-@ Chicago
-Underdog Pick Percentage
-11%
-PHI		CHI
-N/A	Avg. Confidence	N/A
-2-0 (1-0)	Record	1-1 (0-1)
-4.5 pts	Favorite	 
+Status
+COMPLETE
+Picks Saved
+16 of 16
+Tiebreakers
+Entered
+Available Confidence Points
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+Deadline: 5 minutes before each game
+
+Save Picks Cancel
+
+More Info
 	
+Favorite
+	
+Favorite Win
+	
+Versus
+	
+Underdog Win
+	
+Underdog
+	Mon	Tue	Wed	Final	Status (EDT)	Confidence Points
+
+matchup information
+	
+@Green Bay
+	
+	vs	
+	Atlanta	7.0	6.5	5.5	--	Thu 09/24 08:15 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+@Buffalo
+	
+	vs	
+	Los Angeles (LAC)	7.0	7.0	7.0	--	Sun 09/27 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+Carolina
+	
+	vs	
+	@Cleveland	3.0	2.5	2.5	--	Sun 09/27 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+@Detroit
+	
+	vs	
+	New York (NYJ)	6.5	6.5	6.5	--	Sun 09/27 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+Houston
+	
+	vs	
+	@Indianapolis	2.5	2.5	2.5	--	Sun 09/27 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+Kansas City
+	
+	vs	
+	@Miami	10.5	11.5	11.5	--	Sun 09/27 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+@New York (NYG)
+	
+	vs	
+	Tennessee	6.0	6.0	2.5	--	Sun 09/27 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+Cincinnati
+	
+	vs	
+	@Pittsburgh	3.5	3.5	3.5	--	Sun 09/27 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+Seattle
+	
+	vs	
+	@Washington	6.5	7.0	7.0	--	Sun 09/27 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+@Jacksonville
+	
+	vs	
+	New England	2.5	3.0	3.0	--	Sun 09/27 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+@San Francisco
+	
+	vs	
+	Arizona	8.5	8.5	8.5	--	Sun 09/27 04:05 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+Minnesota
+	
+	vs	
+	@Tampa Bay	2.5	1.5	1.5	--	Sun 09/27 04:05 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+Baltimore
+	
+	vs	
+	@Dallas	3.0	3.0	3.5	--	Sun 09/27 04:25 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+@New Orleans
+	
+	vs	
+	Las Vegas	3.5	3.5	3.0	--	Sun 09/27 04:25 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+Los Angeles (LAR)
+	
+	vs	
+	@Denver	2.5	2.5	2.5	--	Sun 09/27 08:20 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+Philadelphia
+	
+	vs	
+	@Chicago	4.0	3.5	4.5	--	Mon 09/28 08:15 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+Bold = Winning Team (Spread)	TOTAL POINTS	0
+Tiebreaker 1 Deadline Mon, Sep 28 8:10 pm EDT (PHI@CHI); Sun, Sep 27 8:20 pm EDT (LAR@DEN)
+
+Predict the scores for these games:
+
+Philadelphia		@		Chicago
+Los Angeles (LAR)		@		Denver
+Tiebreaker 2 Deadline Thu, Sep 24 8:10 pm EDT
+Who will score the MOST points this week?	
+Select Team
+Arizona
+Atlanta
+Baltimore
+Buffalo
+Carolina
+Chicago
+Cincinnati
+Cleveland
+Dallas
+Denver
+Detroit
+Green Bay
+Houston
+Indianapolis
+Jacksonville
+Kansas City
+Las Vegas
+Los Angeles (LAC)
+Los Angeles (LAR)
+Miami
+Minnesota
+New England
+New Orleans
+New York (NYG)
+New York (NYJ)
+Philadelphia
+Pittsburgh
+San Francisco
+Seattle
+Tampa Bay
+Tennessee
+Washington
+
+Who will score the FEWEST points this week?	
+Select Team
+Arizona
+Atlanta
+Baltimore
+Buffalo
+Carolina
+Chicago
+Cincinnati
+Cleveland
+Dallas
+Denver
+Detroit
+Green Bay
+Houston
+Indianapolis
+Jacksonville
+Kansas City
+Las Vegas
+Los Angeles (LAC)
+Los Angeles (LAR)
+Miami
+Minnesota
+New England
+New Orleans
+New York (NYG)
+New York (NYJ)
+Philadelphia
+Pittsburgh
+San Francisco
+Seattle
+Tampa Bay
+Tennessee
+Washington
+
+Deadline: 5 minutes before each game
+
+Save Picks Cancel
+
+My Score
+Week 3
+NA
+0-0
+Total Points
+119 pts
+Rank
+5/10
+W-L
+12-20
+Pick Distribution - Week 3
+Game	Pick Distribution
+@ Green Bay (-5.5)	80%	 
+Atlanta	20%	 
+@ Buffalo (-7.0)	88%	 
+Los Angeles (LAC)	12%	 
+Carolina (-2.5)	81%	 
+@ Cleveland	19%	 
+@ Detroit (-6.5)	75%	 
+New York (NYJ)	25%	 
+Houston (-2.5)	43%	 
+@ Indianapolis	57%	 
+Kansas City (-11.5)	78%	 
+@ Miami	22%	 
+@ New York (NYG) (-2.5)	44%	 
+Tennessee	56%	 
+Cincinnati (-3.5)	78%	 
+@ Pittsburgh	22%	 
+Seattle (-7.0)	89%	 
+@ Washington	11%	 
+@ Jacksonville (-3.0)	53%	 
+New England	47%	 
+@ San Francisco (-8.5)	83%	 
+Arizona	17%	 
+Minnesota (-1.5)	58%	 
+@ Tampa Bay	42%	 
+Baltimore (-3.5)	52%	 
+@ Dallas	48%	 
+@ New Orleans (-3.0)	62%	 
+Las Vegas	38%	 
+Los Angeles (LAR) (-2.5)	67%	 
+@ Denver	33%	 
+Philadelphia (-4.5)	79%	 
+@ Chicago	21%	 
 Strategy Tips from PoolGenius
 Week 3 pick analysis
 How to win pick'em pools
@@ -260,7 +621,7 @@ What winning entries look like
 Why pool size matters
 Weekly vs. season-long strategy
 FREE TRIAL: Expert pick'em picks »
-Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Your Privacy Choices  - About Our Ads - Help
+Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Privacy Dashboard  - About Our Ads - Help
 
 Certain Data by Sportradar and Rotowire
 

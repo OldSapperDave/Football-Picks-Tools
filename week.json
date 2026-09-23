@@ -19,68 +19,68 @@
   },
   "yahoo_pick_pct": {
     "ATL@GB": {
-      "GB": 97,
-      "ATL": 3
+      "ATL": 20,
+      "GB": 80
     },
     "LAC@BUF": {
-      "BUF": 98,
-      "LAC": 2
+      "LAC": 12,
+      "BUF": 88
     },
     "CAR@CLE": {
-      "CAR": 88,
-      "CLE": 12
+      "CAR": 81,
+      "CLE": 19
     },
     "NYJ@DET": {
-      "DET": 97,
-      "NYJ": 3
+      "NYJ": 25,
+      "DET": 75
     },
     "HOU@IND": {
-      "HOU": 50,
-      "IND": 50
+      "HOU": 43,
+      "IND": 57
     },
     "KC@MIA": {
-      "KC": 98,
-      "MIA": 2
+      "KC": 78,
+      "MIA": 22
     },
     "TEN@NYG": {
-      "NYG": 70,
-      "TEN": 30
+      "TEN": 56,
+      "NYG": 44
     },
     "CIN@PIT": {
-      "CIN": 86,
-      "PIT": 14
+      "CIN": 78,
+      "PIT": 22
     },
     "SEA@WAS": {
-      "SEA": 98,
-      "WAS": 2
+      "SEA": 89,
+      "WAS": 11
     },
     "NE@JAX": {
-      "JAX": 65,
-      "NE": 35
+      "NE": 47,
+      "JAX": 53
     },
     "ARI@SF": {
-      "SF": 99,
-      "ARI": 1
+      "ARI": 17,
+      "SF": 83
     },
     "MIN@TB": {
       "MIN": 58,
       "TB": 42
     },
     "BAL@DAL": {
-      "BAL": 64,
-      "DAL": 36
+      "BAL": 52,
+      "DAL": 48
     },
     "LV@NO": {
-      "NO": 78,
-      "LV": 22
+      "LV": 38,
+      "NO": 62
     },
     "LAR@DEN": {
-      "LAR": 73,
-      "DEN": 27
+      "LAR": 67,
+      "DEN": 33
     },
     "PHI@CHI": {
-      "PHI": 89,
-      "CHI": 11
+      "PHI": 79,
+      "CHI": 21
     }
   },
   "dk": {
@@ -208,7 +208,7 @@
     "MIA": -69.5
   },
   "ftn_proj": {},
-  "pulled_at": "2026-09-23 20:15",
-  "yahoo_source": "public distribution page",
+  "pulled_at": "2026-09-23 20:21",
+  "yahoo_source": "league page (cookie)",
   "dvoa_season": "2026"
 }
