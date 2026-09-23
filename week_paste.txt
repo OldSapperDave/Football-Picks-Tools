@@ -22,17 +22,17 @@ LAC @ BUF -7
 CAR @ CLE +2.5
 CIN @ PIT +3.5
 NYJ @ DET -6.5
-HOU @ IND +2.5
+HOU @ IND +3
 NE @ JAX -3
 KC @ MIA +11.5
-TEN @ NYG -3.5
+TEN @ NYG -3
 SEA @ WAS +7
 ARI @ SF -8.5
 MIN @ TB +1.5
-BAL @ DAL +3
+BAL @ DAL +3.5
 LV @ NO -3
 LAR @ DEN +2.5
-PHI @ CHI +3.5
+PHI @ CHI +4.5
 
 === DVOA ===
 SF 78.0%
