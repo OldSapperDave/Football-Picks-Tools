@@ -17,14 +17,14 @@ LAR @ DEN +2.5
 PHI @ CHI +4.5
 
 === DRAFTKINGS ===
-ATL @ GB -5.5
+ATL @ GB -4.5
 LAC @ BUF -7
-CAR @ CLE +2.5
+CAR @ CLE +3
 CIN @ PIT +3.5
 NYJ @ DET -6.5
 HOU @ IND +2.5
 NE @ JAX -3
-KC @ MIA +11.5
+KC @ MIA +10.5
 TEN @ NYG -2.5
 SEA @ WAS +7
 ARI @ SF -8.5
