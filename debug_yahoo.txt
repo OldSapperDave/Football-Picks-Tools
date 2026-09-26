@@ -94,25 +94,9 @@ matchup information
 @Green Bay
 	
 	vs	
-	Atlanta	7.0	6.5	5.5	5.5	Thu 09/24 08:15 PM	
--
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-
+	Atlanta	7.0	6.5	5.5	5.5	
+Correct
+Atl 35, GB 14	10
 
 matchup information
 	
@@ -488,7 +472,7 @@ Philadelphia
 15
 16
 
-Bold = Winning Team (Spread)	TOTAL POINTS	0
+Bold = Winning Team (Spread)	TOTAL POINTS	10
 Tiebreaker 1 Deadline Mon, Sep 28 8:10 pm EDT (PHI@CHI); Sun, Sep 27 8:20 pm EDT (LAR@DEN)
 
 Predict the scores for these games:
@@ -496,75 +480,8 @@ Predict the scores for these games:
 Philadelphia		@		Chicago
 Los Angeles (LAR)		@		Denver
 Tiebreaker 2 Deadline Thu, Sep 24 8:10 pm EDT
-Who will score the MOST points this week?	
-Select Team
-Arizona
-Atlanta
-Baltimore
-Buffalo
-Carolina
-Chicago
-Cincinnati
-Cleveland
-Dallas
-Denver
-Detroit
-Green Bay
-Houston
-Indianapolis
-Jacksonville
-Kansas City
-Las Vegas
-Los Angeles (LAC)
-Los Angeles (LAR)
-Miami
-Minnesota
-New England
-New Orleans
-New York (NYG)
-New York (NYJ)
-Philadelphia
-Pittsburgh
-San Francisco
-Seattle
-Tampa Bay
-Tennessee
-Washington
-
-Who will score the FEWEST points this week?	
-Select Team
-Arizona
-Atlanta
-Baltimore
-Buffalo
-Carolina
-Chicago
-Cincinnati
-Cleveland
-Dallas
-Denver
-Detroit
-Green Bay
-Houston
-Indianapolis
-Jacksonville
-Kansas City
-Las Vegas
-Los Angeles (LAC)
-Los Angeles (LAR)
-Miami
-Minnesota
-New England
-New Orleans
-New York (NYG)
-New York (NYJ)
-Philadelphia
-Pittsburgh
-San Francisco
-Seattle
-Tampa Bay
-Tennessee
-Washington
+Who will score the MOST points this week?	Kansas City
+Who will score the FEWEST points this week?	Tampa Bay
 
 Deadline: 5 minutes before each game
 
@@ -572,44 +489,44 @@ Save Picks Cancel
 
 My Score
 Week 3
-NA
-0-0
+10 pts
+1-0
 Total Points
-119 pts
+129 pts
 Rank
-5/10
+3/10
 W-L
-12-20
+13-20
 Pick Distribution - Week 3
 Game	Pick Distribution
-@ Green Bay (-5.5)	79%	 
-Atlanta	21%	 
-@ Buffalo (-7.0)	87%	 
-Los Angeles (LAC)	13%	 
+@ Green Bay (-5.5)	74%	 
+Atlanta	26%	 
+@ Buffalo (-7.0)	85%	 
+Los Angeles (LAC)	15%	 
 Carolina (-2.5)	80%	 
 @ Cleveland	20%	 
-@ Detroit (-6.5)	77%	 
-New York (NYJ)	23%	 
-Houston (-2.5)	45%	 
-@ Indianapolis	55%	 
-Kansas City (-11.5)	77%	 
-@ Miami	23%	 
+@ Detroit (-6.5)	76%	 
+New York (NYJ)	24%	 
+Houston (-2.5)	46%	 
+@ Indianapolis	54%	 
+Kansas City (-11.5)	76%	 
+@ Miami	24%	 
 @ New York (NYG) (-2.5)	43%	 
 Tennessee	57%	 
 Cincinnati (-3.5)	78%	 
 @ Pittsburgh	22%	 
 Seattle (-7.0)	88%	 
 @ Washington	12%	 
-@ Jacksonville (-3.0)	54%	 
-New England	46%	 
-@ San Francisco (-8.5)	83%	 
-Arizona	17%	 
-Minnesota (-1.5)	59%	 
-@ Tampa Bay	41%	 
+@ Jacksonville (-3.0)	56%	 
+New England	44%	 
+@ San Francisco (-8.5)	81%	 
+Arizona	19%	 
+Minnesota (-1.5)	58%	 
+@ Tampa Bay	42%	 
 Baltimore (-3.5)	51%	 
 @ Dallas	49%	 
-@ New Orleans (-3.0)	64%	 
-Las Vegas	36%	 
+@ New Orleans (-3.0)	65%	 
+Las Vegas	35%	 
 Los Angeles (LAR) (-2.5)	69%	 
 @ Denver	31%	 
 Philadelphia (-4.5)	80%	 
