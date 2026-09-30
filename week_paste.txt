@@ -5,13 +5,13 @@ NE @ BUF -6.5
 NYJ @ CHI -3.5
 JAX @ CIN -2.5
 ARI @ NYG +1.5
-LAR @ PHI +2.5
+LAR @ PHI +3
 GB @ TB +3.5
 TEN @ BAL -11.5
 DAL @ HOU -2.5
 MIA @ MIN -10.5
 KC @ LV +4.5
-DEN @ SF -3
+DEN @ SF -2.5
 LAC @ SEA -7
 DET @ CAR +3.5
 ATL @ NO -2.5
@@ -19,20 +19,20 @@ ATL @ NO -2.5
 === DRAFTKINGS ===
 PIT @ CLE +2.5
 IND @ WAS +3.5
-ARI @ NYG +1.5
+ARI @ NYG +2.5
 TEN @ BAL -11.5
-NE @ BUF -7
+NE @ BUF -6.5
 NYJ @ CHI -3.5
 JAX @ CIN -2.5
 DAL @ HOU -2.5
 GB @ TB +3.5
 LAR @ PHI +3
-MIA @ MIN -11.5
+MIA @ MIN -10.5
 DEN @ SF -3
 KC @ LV +4.5
 LAC @ SEA -7
 DET @ CAR +3.5
-ATL @ NO -3
+ATL @ NO -2.5
 
 === DVOA ===
 SF 68.7%

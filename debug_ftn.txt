@@ -15,6 +15,10 @@ Adjusted Line Yards
 Defense vs Receiver
 Special Teams DVOA
 DVOA Game Projections
+Team Total DVOA
+
+Looking to download DVOA data? Click here
+
 2026
 Regular Season Only
 Export
