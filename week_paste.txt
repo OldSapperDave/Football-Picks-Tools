@@ -24,7 +24,7 @@ TEN @ BAL -11.5
 NE @ BUF -6.5
 NYJ @ CHI -3.5
 JAX @ CIN -2.5
-DAL @ HOU -2.5
+DAL @ HOU -3
 GB @ TB +3.5
 LAR @ PHI +3
 MIA @ MIN -10.5
