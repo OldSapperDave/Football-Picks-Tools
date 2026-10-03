@@ -17,17 +17,16 @@ DET @ CAR +3.5
 ATL @ NO -2.5
 
 === DRAFTKINGS ===
-PIT @ CLE +2.5
-IND @ WAS +3.5
+IND @ WAS +4.5
 ARI @ NYG +2.5
 TEN @ BAL -11.5
-NE @ BUF -6.5
+NE @ BUF -7
 NYJ @ CHI -3.5
 JAX @ CIN -2.5
 DAL @ HOU -3
-GB @ TB +3.5
-LAR @ PHI +3
-MIA @ MIN -10.5
+GB @ TB +3
+LAR @ PHI +3.5
+MIA @ MIN -10
 DEN @ SF -3
 KC @ LV +4.5
 LAC @ SEA -7

@@ -94,25 +94,9 @@ matchup information
 Pittsburgh
 	
 	vs	
-	@Cleveland	2.5	2.5	2.5	2.5	Thu 10/01 08:15 PM	
--
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-
+	@Cleveland	2.5	2.5	2.5	2.5	
+Incorrect
+Cle 27, Pit 24	13
 
 matchup information
 	
@@ -496,75 +480,8 @@ Predict the scores for these games:
 Atlanta		@		New Orleans
 Detroit		@		Carolina
 Tiebreaker 2 Deadline Thu, Oct 1 8:10 pm EDT
-Who will score the MOST points this week?	
-Select Team
-Arizona
-Atlanta
-Baltimore
-Buffalo
-Carolina
-Chicago
-Cincinnati
-Cleveland
-Dallas
-Denver
-Detroit
-Green Bay
-Houston
-Indianapolis
-Jacksonville
-Kansas City
-Las Vegas
-Los Angeles (LAC)
-Los Angeles (LAR)
-Miami
-Minnesota
-New England
-New Orleans
-New York (NYG)
-New York (NYJ)
-Philadelphia
-Pittsburgh
-San Francisco
-Seattle
-Tampa Bay
-Tennessee
-Washington
-
-Who will score the FEWEST points this week?	
-Select Team
-Arizona
-Atlanta
-Baltimore
-Buffalo
-Carolina
-Chicago
-Cincinnati
-Cleveland
-Dallas
-Denver
-Detroit
-Green Bay
-Houston
-Indianapolis
-Jacksonville
-Kansas City
-Las Vegas
-Los Angeles (LAC)
-Los Angeles (LAR)
-Miami
-Minnesota
-New England
-New Orleans
-New York (NYG)
-New York (NYJ)
-Philadelphia
-Pittsburgh
-San Francisco
-Seattle
-Tampa Bay
-Tennessee
-Washington
+Who will score the MOST points this week?	Green Bay
+Who will score the FEWEST points this week?	Tampa Bay
 
 Deadline: 5 minutes before each game
 
@@ -573,19 +490,19 @@ Save Picks Cancel
 My Score
 Week 4
 NA
-0-0
+0-1
 Total Points
 202 pts
 Rank
-1/10
+2/10
 W-L
-23-25
+23-26
 Pick Distribution - Week 4
 Game	Pick Distribution
-Pittsburgh (-2.5)	59%	 
-@ Cleveland	41%	 
-Indianapolis (-3.5)	45%	 
-@ Washington	55%	 
+Pittsburgh (-2.5)	58%	 
+@ Cleveland	42%	 
+Indianapolis (-3.5)	46%	 
+@ Washington	54%	 
 @ Buffalo (-6.5)	82%	 
 New England	18%	 
 @ Chicago (-3.5)	78%	 
@@ -596,12 +513,12 @@ Arizona (-1.5)	48%	 
 @ New York (NYG)	52%	 
 Los Angeles (LAR) (-3.0)	67%	 
 @ Philadelphia	33%	 
-Green Bay (-3.5)	61%	 
-@ Tampa Bay	39%	 
+Green Bay (-3.5)	62%	 
+@ Tampa Bay	38%	 
 @ Baltimore (-11.5)	68%	 
 Tennessee	32%	 
-@ Houston (-2.5)	36%	 
-Dallas	64%	 
+@ Houston (-2.5)	38%	 
+Dallas	62%	 
 @ Minnesota (-10.5)	71%	 
 Miami	29%	 
 Kansas City (-4.5)	60%	 
