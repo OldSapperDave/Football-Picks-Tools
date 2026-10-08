@@ -1,6 +1,83 @@
 {
-  "yahoo": {},
-  "yahoo_pick_pct": {},
+  "yahoo": {
+    "TB@DAL": -8.5,
+    "PHI@JAX": -7.5,
+    "CHI@GB": 2.5,
+    "HOU@TEN": 7.5,
+    "CIN@MIA": 7.5,
+    "LV@NE": -3.5,
+    "MIN@NO": 1.5,
+    "CLE@NYJ": -2.5,
+    "IND@PIT": -2.5,
+    "NYG@WAS": -3.5,
+    "DEN@LAC": 3.5,
+    "DET@ARI": 5.5,
+    "SF@SEA": -3.0,
+    "BAL@ATL": -3.5,
+    "BUF@LAR": -3.0
+  },
+  "yahoo_pick_pct": {
+    "TB@DAL": {
+      "TB": 33,
+      "DAL": 67
+    },
+    "PHI@JAX": {
+      "PHI": 43,
+      "JAX": 57
+    },
+    "CHI@GB": {
+      "CHI": 68,
+      "GB": 32
+    },
+    "HOU@TEN": {
+      "HOU": 62,
+      "TEN": 38
+    },
+    "CIN@MIA": {
+      "CIN": 72,
+      "MIA": 28
+    },
+    "LV@NE": {
+      "LV": 52,
+      "NE": 48
+    },
+    "MIN@NO": {
+      "MIN": 69,
+      "NO": 31
+    },
+    "CLE@NYJ": {
+      "CLE": 74,
+      "NYJ": 26
+    },
+    "IND@PIT": {
+      "IND": 47,
+      "PIT": 53
+    },
+    "NYG@WAS": {
+      "NYG": 68,
+      "WAS": 32
+    },
+    "DEN@LAC": {
+      "DEN": 70,
+      "LAC": 30
+    },
+    "DET@ARI": {
+      "DET": 70,
+      "ARI": 30
+    },
+    "SF@SEA": {
+      "SF": 62,
+      "SEA": 38
+    },
+    "BAL@ATL": {
+      "BAL": 46,
+      "ATL": 54
+    },
+    "BUF@LAR": {
+      "BUF": 63,
+      "LAR": 37
+    }
+  },
   "dk": {
     "TB@DAL": -8.5,
     "PHI@JAX": -7.5,
@@ -16,8 +93,7 @@
     "DET@ARI": 5.5,
     "SF@SEA": -3.0,
     "BAL@ATL": -3.5,
-    "BUF@LAR": -3.0,
-    "SEA@DEN": 1.5
+    "BUF@LAR": -3.0
   },
   "consensus": {
     "TB@DAL": -8.5,
@@ -34,8 +110,7 @@
     "DET@ARI": 5.5,
     "SF@SEA": -3.0,
     "BAL@ATL": -3.5,
-    "BUF@LAR": -3.0,
-    "SEA@DEN": 2.5
+    "BUF@LAR": -3.0
   },
   "pinnacle": {
     "TB@DAL": -8.5,
@@ -69,8 +144,7 @@
     "DET@ARI": "2026-10-11T20:25:00Z",
     "SF@SEA": "2026-10-11T20:25:00Z",
     "BAL@ATL": "2026-10-12T00:20:00Z",
-    "BUF@LAR": "2026-10-13T00:15:00Z",
-    "SEA@DEN": "2026-10-16T00:15:00Z"
+    "BUF@LAR": "2026-10-13T00:15:00Z"
   },
   "totals": {
     "TB@DAL": 48.5,
@@ -87,8 +161,7 @@
     "DET@ARI": 54.5,
     "SF@SEA": 46.5,
     "BAL@ATL": 43.5,
-    "BUF@LAR": 54.5,
-    "SEA@DEN": 42.5
+    "BUF@LAR": 54.5
   },
   "dvoa": {
     "SF": 54.8,
@@ -141,6 +214,7 @@
     "BAL@ATL": -2.5,
     "BUF@LAR": -2.5
   },
-  "pulled_at": "2026-10-08 14:35",
+  "pulled_at": "2026-10-08 14:43",
+  "yahoo_source": "league page (cookie)",
   "dvoa_season": "2026"
 }

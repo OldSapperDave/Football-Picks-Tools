@@ -1,13 +1,581 @@
-Help
-Terms
-Privacy
-Sign in to Yahoo
-Username, email or phone number
-Stay signed in
+Yahoo Sports
+Yahoo Sports
+Search query
+News
+Finance
+Sports
+More
+99+
+D
+ Pro Football Pick'em
+Pro Football Pick'em
+My Picks & Groups
+Pick Distribution
+Fantasy
+Watch
+Network
+BUCCBUDDIES 
+In Groups:
+Sharpest Squares
+Sharpest Squares Navigation
+Overview
+Group Picks
+Weekly Performance
+Message Board
+Members
+Settings
+Week: 
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+Playoffs:
+1
+2
+3
+4
+Status
+COMPLETE
+Picks Saved
+15 of 15
+Tiebreakers
+Entered
+Available Confidence Points
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
 
-Forgot username
+Deadline: 5 minutes before each game
 
-Next
-or
-Sign in with Google
-Create account
+Save Picks Cancel
+
+More Info
+	
+Favorite
+	
+Favorite Win
+	
+Versus
+	
+Underdog Win
+	
+Underdog
+	Mon	Tue	Wed	Final	Status (EDT)	Confidence Points
+
+matchup information
+	
+@Dallas
+	
+	vs	
+	Tampa Bay	10.0	8.5	8.5	8.5	Thu 10/08 08:15 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+
+matchup information
+	
+@Jacksonville
+	
+	vs	
+	Philadelphia	4.5	7.0	7.5	7.5	Sun 10/11 09:30 AM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+
+matchup information
+	
+Chicago
+	
+	vs	
+	@Green Bay	2.5	2.5	2.5	2.5	Sun 10/11 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+
+matchup information
+	
+Houston
+	
+	vs	
+	@Tennessee	6.5	7.0	7.5	7.5	Sun 10/11 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+
+matchup information
+	
+Cincinnati
+	
+	vs	
+	@Miami	7.5	7.5	7.5	7.5	Sun 10/11 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+
+matchup information
+	
+@New England
+	
+	vs	
+	Las Vegas	3.5	3.5	3.5	3.5	Sun 10/11 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+
+matchup information
+	
+Minnesota
+	
+	vs	
+	@New Orleans	1.5	1.5	1.5	1.5	Sun 10/11 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+
+matchup information
+	
+@New York (NYJ)
+	
+	vs	
+	Cleveland	2.0	2.5	2.5	2.5	Sun 10/11 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+
+matchup information
+	
+@Pittsburgh
+	
+	vs	
+	Indianapolis	2.5	2.5	2.5	2.5	Sun 10/11 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+
+matchup information
+	
+@Washington
+	
+	vs	
+	New York (NYG)	3.5	3.5	3.5	3.5	Sun 10/11 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+
+matchup information
+	
+Denver
+	
+	vs	
+	@Los Angeles (LAC)	3.5	3.5	3.5	3.5	Sun 10/11 04:05 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+
+matchup information
+	
+Detroit
+	
+	vs	
+	@Arizona	4.5	4.5	5.5	5.5	Sun 10/11 04:25 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+
+matchup information
+	
+@Seattle
+	
+	vs	
+	San Francisco	3.0	3.0	3.0	3.0	Sun 10/11 04:25 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+
+matchup information
+	
+@Atlanta
+	
+	vs	
+	Baltimore	-4	-2.5	3.5	3.5	Sun 10/11 08:20 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+
+matchup information
+	
+@Los Angeles (LAR)
+	
+	vs	
+	Buffalo	2.5	2.5	3.0	3.0	Mon 10/12 08:15 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+Bold = Winning Team (Spread)	TOTAL POINTS	0
+Tiebreaker 1 Deadline Mon, Oct 12 8:10 pm EDT (BUF@LAR); Sun, Oct 11 8:20 pm EDT (BAL@ATL)
+
+Predict the scores for these games:
+
+Buffalo		@		Los Angeles (LAR)
+Baltimore		@		Atlanta
+Tiebreaker 2 Deadline Thu, Oct 8 8:10 pm EDT
+Who will score the MOST points this week?	
+Select Team
+Arizona
+Atlanta
+Baltimore
+Buffalo
+Chicago
+Cincinnati
+Cleveland
+Dallas
+Denver
+Detroit
+Green Bay
+Houston
+Indianapolis
+Jacksonville
+Las Vegas
+Los Angeles (LAC)
+Los Angeles (LAR)
+Miami
+Minnesota
+New England
+New Orleans
+New York (NYG)
+New York (NYJ)
+Philadelphia
+Pittsburgh
+San Francisco
+Seattle
+Tampa Bay
+Tennessee
+Washington
+
+Who will score the FEWEST points this week?	
+Select Team
+Arizona
+Atlanta
+Baltimore
+Buffalo
+Chicago
+Cincinnati
+Cleveland
+Dallas
+Denver
+Detroit
+Green Bay
+Houston
+Indianapolis
+Jacksonville
+Las Vegas
+Los Angeles (LAC)
+Los Angeles (LAR)
+Miami
+Minnesota
+New England
+New Orleans
+New York (NYG)
+New York (NYJ)
+Philadelphia
+Pittsburgh
+San Francisco
+Seattle
+Tampa Bay
+Tennessee
+Washington
+
+Deadline: 5 minutes before each game
+
+Save Picks Cancel
+
+My Score
+Week 5
+NA
+0-0
+Total Points
+267 pts
+Rank
+4/10
+W-L
+33-30
+Pick Distribution - Week 5
+Game	Pick Distribution
+@ Dallas (-8.5)	67%	 
+Tampa Bay	33%	 
+@ Jacksonville (-7.5)	57%	 
+Philadelphia	43%	 
+Chicago (-2.5)	68%	 
+@ Green Bay	32%	 
+Houston (-7.5)	62%	 
+@ Tennessee	38%	 
+Cincinnati (-7.5)	72%	 
+@ Miami	28%	 
+@ New England (-3.5)	48%	 
+Las Vegas	52%	 
+Minnesota (-1.5)	69%	 
+@ New Orleans	31%	 
+@ New York (NYJ) (-2.5)	26%	 
+Cleveland	74%	 
+@ Pittsburgh (-2.5)	53%	 
+Indianapolis	47%	 
+@ Washington (-3.5)	32%	 
+New York (NYG)	68%	 
+Denver (-3.5)	70%	 
+@ Los Angeles (LAC)	30%	 
+Detroit (-5.5)	70%	 
+@ Arizona	30%	 
+@ Seattle (-3.0)	38%	 
+San Francisco	62%	 
+@ Atlanta (-3.5)	54%	 
+Baltimore	46%	 
+@ Los Angeles (LAR) (-3.0)	37%	 
+Buffalo	63%	 
+Strategy Tips from PoolGenius
+Week 5 pick analysis
+How to win pick'em pools
+What winning entries look like
+Why pool size matters
+Weekly vs. season-long strategy
+FREE TRIAL: Expert pick'em picks »
+Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Privacy Dashboard  - About Our Ads - Help
+
+Certain Data by Sportradar and Rotowire
+
+© 2026 Yahoo Fantasy Sports LLC. All rights reserved.
