@@ -1,36 +1,23 @@
 === YAHOO ===
-TB @ DAL -8.5
-PHI @ JAX -7
-CHI @ GB +2.5
-HOU @ TEN +7
-CIN @ MIA +7.5
-LV @ NE -3.5
-MIN @ NO +1.5
-CLE @ NYJ -2.5
-IND @ PIT -2.5
-NYG @ WAS -3.5
-DEN @ LAC +3.5
-DET @ ARI +4.5
-SF @ SEA -3
-BAL @ ATL +2.5
-BUF @ LAR -2.5
+
 
 === DRAFTKINGS ===
 TB @ DAL -8.5
-PHI @ JAX -6.5
-CHI @ GB +3
-CIN @ MIA +7
-CLE @ NYJ -2.5
-HOU @ TEN +6.5
+PHI @ JAX -7.5
+CHI @ GB +1.5
+CIN @ MIA +6.5
+CLE @ NYJ -1.5
+HOU @ TEN +7.5
 IND @ PIT -2.5
 LV @ NE -3.5
 MIN @ NO +1.5
 NYG @ WAS -3.5
 DEN @ LAC +3.5
-DET @ ARI +4.5
+DET @ ARI +5.5
 SF @ SEA -3
-BAL @ ATL -3
-BUF @ LAR -2.5
+BAL @ ATL -3.5
+BUF @ LAR -3
+SEA @ DEN +1.5
 
 === DVOA ===
 SF 54.8%
