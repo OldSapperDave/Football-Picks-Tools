@@ -93,24 +93,9 @@ matchup information
 @Dallas
 	
 	vs	
-	Tampa Bay	10.0	8.5	8.5	8.5	Thu 10/08 08:15 PM	
--
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-
+	Tampa Bay	10.0	8.5	8.5	8.5	
+Incorrect
+TB 24, Dal 16	8
 
 matchup information
 	
@@ -455,71 +440,8 @@ Predict the scores for these games:
 Buffalo		@		Los Angeles (LAR)
 Baltimore		@		Atlanta
 Tiebreaker 2 Deadline Thu, Oct 8 8:10 pm EDT
-Who will score the MOST points this week?	
-Select Team
-Arizona
-Atlanta
-Baltimore
-Buffalo
-Chicago
-Cincinnati
-Cleveland
-Dallas
-Denver
-Detroit
-Green Bay
-Houston
-Indianapolis
-Jacksonville
-Las Vegas
-Los Angeles (LAC)
-Los Angeles (LAR)
-Miami
-Minnesota
-New England
-New Orleans
-New York (NYG)
-New York (NYJ)
-Philadelphia
-Pittsburgh
-San Francisco
-Seattle
-Tampa Bay
-Tennessee
-Washington
-
-Who will score the FEWEST points this week?	
-Select Team
-Arizona
-Atlanta
-Baltimore
-Buffalo
-Chicago
-Cincinnati
-Cleveland
-Dallas
-Denver
-Detroit
-Green Bay
-Houston
-Indianapolis
-Jacksonville
-Las Vegas
-Los Angeles (LAC)
-Los Angeles (LAR)
-Miami
-Minnesota
-New England
-New Orleans
-New York (NYG)
-New York (NYJ)
-Philadelphia
-Pittsburgh
-San Francisco
-Seattle
-Tampa Bay
-Tennessee
-Washington
+Who will score the MOST points this week?	Dallas
+Who will score the FEWEST points this week?	Tennessee
 
 Deadline: 5 minutes before each game
 
@@ -528,43 +450,43 @@ Save Picks Cancel
 My Score
 Week 5
 NA
-0-0
+0-1
 Total Points
 267 pts
 Rank
 4/10
 W-L
-33-30
+33-31
 Pick Distribution - Week 5
 Game	Pick Distribution
-@ Dallas (-8.5)	67%	 
-Tampa Bay	33%	 
-@ Jacksonville (-7.5)	57%	 
-Philadelphia	43%	 
+@ Dallas (-8.5)	69%	 
+Tampa Bay	31%	 
+@ Jacksonville (-7.5)	56%	 
+Philadelphia	44%	 
 Chicago (-2.5)	68%	 
 @ Green Bay	32%	 
-Houston (-7.5)	62%	 
-@ Tennessee	38%	 
+Houston (-7.5)	60%	 
+@ Tennessee	40%	 
 Cincinnati (-7.5)	72%	 
 @ Miami	28%	 
-@ New England (-3.5)	48%	 
-Las Vegas	52%	 
+@ New England (-3.5)	47%	 
+Las Vegas	53%	 
 Minnesota (-1.5)	69%	 
 @ New Orleans	31%	 
 @ New York (NYJ) (-2.5)	26%	 
 Cleveland	74%	 
-@ Pittsburgh (-2.5)	53%	 
-Indianapolis	47%	 
-@ Washington (-3.5)	32%	 
-New York (NYG)	68%	 
+@ Pittsburgh (-2.5)	56%	 
+Indianapolis	44%	 
+@ Washington (-3.5)	36%	 
+New York (NYG)	64%	 
 Denver (-3.5)	70%	 
 @ Los Angeles (LAC)	30%	 
-Detroit (-5.5)	70%	 
-@ Arizona	30%	 
+Detroit (-5.5)	71%	 
+@ Arizona	29%	 
 @ Seattle (-3.0)	38%	 
 San Francisco	62%	 
-@ Atlanta (-3.5)	54%	 
-Baltimore	46%	 
+@ Atlanta (-3.5)	57%	 
+Baltimore	43%	 
 @ Los Angeles (LAR) (-3.0)	37%	 
 Buffalo	63%	 
 Strategy Tips from PoolGenius
@@ -574,7 +496,7 @@ What winning entries look like
 Why pool size matters
 Weekly vs. season-long strategy
 FREE TRIAL: Expert pick'em picks »
-Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Privacy Dashboard  - About Our Ads - Help
+Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Your Privacy Choices  - About Our Ads - Help
 
 Certain Data by Sportradar and Rotowire
 
