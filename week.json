@@ -1,6 +1,78 @@
 {
-  "yahoo": {},
-  "yahoo_pick_pct": {},
+  "yahoo": {
+    "SEA@DEN": 2.5,
+    "HOU@JAX": -2.5,
+    "CHI@ATL": 3.0,
+    "BAL@CLE": 4.5,
+    "TEN@IND": -7.0,
+    "NYJ@NE": -7.5,
+    "NO@NYG": 1.5,
+    "CAR@PHI": -1.5,
+    "PIT@TB": 2.5,
+    "ARI@LAR": -12.5,
+    "LAC@KC": -8.5,
+    "BUF@LV": 5.0,
+    "DAL@GB": -1.5,
+    "WAS@SF": -7.5
+  },
+  "yahoo_pick_pct": {
+    "SEA@DEN": {
+      "SEA": 62,
+      "DEN": 38
+    },
+    "HOU@JAX": {
+      "HOU": 20,
+      "JAX": 80
+    },
+    "CHI@ATL": {
+      "CHI": 37,
+      "ATL": 63
+    },
+    "BAL@CLE": {
+      "BAL": 66,
+      "CLE": 34
+    },
+    "TEN@IND": {
+      "TEN": 22,
+      "IND": 78
+    },
+    "NYJ@NE": {
+      "NYJ": 27,
+      "NE": 73
+    },
+    "NO@NYG": {
+      "NO": 30,
+      "NYG": 70
+    },
+    "CAR@PHI": {
+      "CAR": 40,
+      "PHI": 60
+    },
+    "PIT@TB": {
+      "PIT": 68,
+      "TB": 32
+    },
+    "ARI@LAR": {
+      "ARI": 47,
+      "LAR": 53
+    },
+    "LAC@KC": {
+      "LAC": 36,
+      "KC": 64
+    },
+    "BUF@LV": {
+      "BUF": 76,
+      "LV": 24
+    },
+    "DAL@GB": {
+      "DAL": 34,
+      "GB": 66
+    },
+    "WAS@SF": {
+      "WAS": 19,
+      "SF": 81
+    }
+  },
   "dk": {
     "SEA@DEN": 2.5,
     "HOU@JAX": -2.5,
@@ -131,6 +203,7 @@
     "DAL@GB": 2.0,
     "WAS@SF": -9.0
   },
-  "pulled_at": "2026-10-14 16:45",
+  "pulled_at": "2026-10-14 17:01",
+  "yahoo_source": "league page (cookie)",
   "dvoa_season": "2026"
 }
