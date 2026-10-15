@@ -17,7 +17,7 @@ WAS @ SF -7.5
 === DRAFTKINGS ===
 SEA @ DEN +2.5
 HOU @ JAX -2.5
-CHI @ ATL +2.5
+CHI @ ATL +1.5
 BAL @ CLE +5.5
 CAR @ PHI +1.5
 TEN @ IND -7
