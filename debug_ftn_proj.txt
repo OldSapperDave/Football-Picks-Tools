@@ -6,7 +6,7 @@ Week | Home | Away | Home Pts | Away Pts
 6 | CLE | BAL | 17.4 | 22.3
 6 | ATL | CHI | 27.3 | 26.6
 6 | IND | TEN | 25.9 | 18.3
-6 | PHI | CAR | 24.1 | 20.6
+6 | PHI | CAR | 21.2 | 21.3
 6 | NYG | NO | 22.6 | 18.5
 6 | LAR | ARI | 28.2 | 18.7
 6 | LV | BUF | 21.2 | 29.0

@@ -15,18 +15,17 @@ DAL @ GB -1.5
 WAS @ SF -7.5
 
 === DRAFTKINGS ===
-SEA @ DEN +2.5
 HOU @ JAX -2.5
 CHI @ ATL +1.5
-BAL @ CLE +5.5
-CAR @ PHI +1.5
+BAL @ CLE +3
+CAR @ PHI +3
 TEN @ IND -7
 NYJ @ NE -7.5
 NO @ NYG +1.5
 PIT @ TB +2.5
 ARI @ LAR -12.5
 BUF @ LV +5.5
-LAC @ KC -8.5
+LAC @ KC -7.5
 DAL @ GB -1.5
 WAS @ SF -7.5
 
