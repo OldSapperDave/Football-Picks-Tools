@@ -1,64 +1,65 @@
 === YAHOO ===
-SEA @ DEN +2.5
-HOU @ JAX -2.5
-CHI @ ATL +3
-BAL @ CLE +4.5
-TEN @ IND -7
-NYJ @ NE -7.5
-NO @ NYG +1.5
-CAR @ PHI -1.5
-PIT @ TB +2.5
-ARI @ LAR -12.5
-LAC @ KC -8.5
-BUF @ LV +5
-DAL @ GB -1.5
-WAS @ SF -7.5
+NE @ CHI -3
+PIT @ NO +3.5
+SF @ ATL +3.5
+CLE @ TEN +1.5
+IND @ MIN -6.5
+MIA @ NYJ -4.5
+TB @ CAR -3.5
+CIN @ BAL -3
+NYG @ HOU -9.5
+DEN @ ARI +4.5
+GB @ DET -3
+LAR @ LV +4.5
+KC @ SEA -2.5
+DAL @ PHI +4.5
 
 === DRAFTKINGS ===
-HOU @ JAX -2.5
-CHI @ ATL +1.5
-BAL @ CLE +3
-CAR @ PHI +3
-TEN @ IND -7
-NYJ @ NE -7.5
-NO @ NYG +1.5
-PIT @ TB +2.5
-ARI @ LAR -12.5
-BUF @ LV +5.5
-LAC @ KC -7.5
-DAL @ GB -1.5
-WAS @ SF -7.5
+NE @ CHI -3
+PIT @ NO +3.5
+SF @ ATL +3
+CIN @ BAL -2.5
+TB @ CAR -3.5
+CLE @ TEN +1.5
+NYG @ HOU -10
+IND @ MIN -6.5
+MIA @ NYJ -4.5
+DEN @ ARI +4.5
+GB @ DET -3
+LAR @ LV +4.5
+KC @ SEA -2.5
+DAL @ PHI +4.5
 
 === DVOA ===
-SF 52.2%
-JAX 30.1%
-BUF 24.2%
-KC 21.9%
-CIN 21.1%
-BAL 20.6%
-MIN 19.5%
-SEA 16.4%
-CAR 13.0%
-LAR 10.8%
-HOU 10.7%
-TB 9.1%
-NE 6.9%
-PIT 4.8%
-DET 3.9%
-DEN 1.7%
-GB -0.3%
-ATL -2.2%
-CHI -2.6%
-DAL -3.5%
-IND -6.5%
-NYJ -9.6%
-PHI -10.2%
-ARI -11.2%
-LV -11.5%
-CLE -13.5%
-NYG -17.7%
-WAS -20.6%
-LAC -30.8%
-NO -37.5%
-TEN -39.0%
-MIA -47.1%
+SF 46.1%
+KC 28.9%
+JAX 27.7%
+BUF 22.4%
+CIN 21.6%
+MIN 18.6%
+CAR 16.9%
+BAL 14.1%
+HOU 12.7%
+SEA 11.2%
+NE 10.5%
+PIT 9.9%
+LAR 8.2%
+DEN 6.6%
+CHI 5.5%
+TB 4.2%
+DET 3.8%
+GB 1.0%
+DAL -6.3%
+NYJ -6.8%
+CLE -9.8%
+ARI -10.8%
+LV -10.9%
+ATL -11.1%
+IND -12.7%
+PHI -13.6%
+WAS -15.7%
+NYG -23.2%
+NO -29.7%
+TEN -33.0%
+LAC -37.0%
+MIA -45.6%
