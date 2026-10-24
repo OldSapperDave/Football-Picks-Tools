@@ -1,6 +1,5 @@
 A type= name= id= ph= text=
 A type= name= id= ph= text=Stats IQ
-A type= name= id= ph= text=FTN Almanac
 BUTTON type=submit name= id=0 ph= text=
 BUTTON type=submit name= id=1 ph= text=
 BUTTON type=submit name= id=2 ph= text=
@@ -41,27 +40,6 @@ A type= name= id= ph= text=
 A type= name= id= ph= text=
 A type= name= id= ph= text=
 A type= name= id= ph= text=
-A type= name= id= ph= text=
-A type= name= id= ph= text=
-A type= name= id= ph= text=
-A type= name= id= ph= text=
-A type= name= id= ph= text=
-A type= name= id= ph= text=
-A type= name= id= ph= text=
-A type= name= id= ph= text=
-A type= name= id= ph= text=
-A type= name= id= ph= text=
-A type= name= id= ph= text=
-A type= name= id= ph= text=
-A type= name= id= ph= text=
-A type= name= id= ph= text=
-A type= name= id= ph= text=
-BUTTON type=submit name= id=0 ph= text=
-BUTTON type=submit name= id=1 ph= text=
-BUTTON type=submit name= id=2 ph= text=
-BUTTON type=submit name= id=3 ph= text=
-BUTTON type=submit name= id=4 ph= text=
-BUTTON type=submit name= id=5 ph= text=
 A type= name= id= ph= text=
 A type= name= id= ph= text=
 A type= name= id= ph= text=
@@ -182,11 +160,9 @@ A type= name= id= ph= text=(467369)
 Fantasy
 DFS
 Betting
-Stats
-Sports
+Stats & DVOA
 More
 Stats IQ
-FTN Almanac
 Log In
 Sign Up
 Join Now

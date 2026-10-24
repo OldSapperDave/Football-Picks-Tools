@@ -49,9 +49,9 @@ Playoffs:
 3
 4
 Status
-INCOMPLETE
+COMPLETE
 Picks Saved
-1 of 14
+14 of 14
 Tiebreakers
 Entered
 Available Confidence Points
@@ -92,23 +92,9 @@ matchup information
 @Chicago
 	
 	vs	
-	New England	3.0	3.0	3.0	3.0	Thu 10/22 08:15 PM	
--
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-
+	New England	3.0	3.0	3.0	3.0	
+Incorrect
+Chi 30, NE 24	6
 
 matchup information
 	
@@ -416,67 +402,8 @@ Predict the scores for these games:
 Dallas		@		Philadelphia
 Kansas City		@		Seattle
 Tiebreaker 2 Deadline Thu, Oct 22 8:10 pm EDT
-Who will score the MOST points this week?	
-Select Team
-Arizona
-Atlanta
-Baltimore
-Carolina
-Chicago
-Cincinnati
-Cleveland
-Dallas
-Denver
-Detroit
-Green Bay
-Houston
-Indianapolis
-Kansas City
-Las Vegas
-Los Angeles (LAR)
-Miami
-Minnesota
-New England
-New Orleans
-New York (NYG)
-New York (NYJ)
-Philadelphia
-Pittsburgh
-San Francisco
-Seattle
-Tampa Bay
-Tennessee
-
-Who will score the FEWEST points this week?	
-Select Team
-Arizona
-Atlanta
-Baltimore
-Carolina
-Chicago
-Cincinnati
-Cleveland
-Dallas
-Denver
-Detroit
-Green Bay
-Houston
-Indianapolis
-Kansas City
-Las Vegas
-Los Angeles (LAR)
-Miami
-Minnesota
-New England
-New Orleans
-New York (NYG)
-New York (NYJ)
-Philadelphia
-Pittsburgh
-San Francisco
-Seattle
-Tampa Bay
-Tennessee
+Who will score the MOST points this week?	Carolina
+Who will score the FEWEST points this week?	New York (NYG)
 
 Deadline: 5 minutes before each game
 
@@ -485,43 +412,43 @@ Save Picks Cancel
 My Score
 Week 7
 NA
-0-0
+0-1
 Total Points
 362 pts
 Rank
-5/10
+6/10
 W-L
-45-47
+45-48
 Pick Distribution - Week 7
 Game	Pick Distribution
-@ Chicago (-3.0)	58%	 
-New England	42%	 
-Pittsburgh (-3.5)	48%	 
-@ New Orleans	52%	 
-San Francisco (-3.5)	78%	 
-@ Atlanta	22%	 
-Cleveland (-1.5)	76%	 
-@ Tennessee	24%	 
-@ Minnesota (-6.5)	70%	 
-Indianapolis	30%	 
-@ New York (NYJ) (-4.5)	72%	 
-Miami	28%	 
-@ Carolina (-3.5)	78%	 
-Tampa Bay	22%	 
-@ Baltimore (-2.5)	38%	 
-Cincinnati	62%	 
-@ Houston (-10.0)	36%	 
-New York (NYG)	64%	 
+@ Chicago (-3.0)	59%	 
+New England	41%	 
+Pittsburgh (-3.5)	50%	 
+@ New Orleans	50%	 
+San Francisco (-3.5)	76%	 
+@ Atlanta	24%	 
+Cleveland (-1.5)	77%	 
+@ Tennessee	23%	 
+@ Minnesota (-6.5)	71%	 
+Indianapolis	29%	 
+@ New York (NYJ) (-4.5)	73%	 
+Miami	27%	 
+@ Carolina (-3.5)	76%	 
+Tampa Bay	24%	 
+@ Baltimore (-2.5)	35%	 
+Cincinnati	65%	 
+@ Houston (-10.0)	37%	 
+New York (NYG)	63%	 
 Denver (-4.5)	67%	 
 @ Arizona	33%	 
-@ Detroit (-3.0)	57%	 
-Green Bay	43%	 
-Los Angeles (LAR) (-4.5)	43%	 
-@ Las Vegas	57%	 
-@ Seattle (-2.5)	32%	 
-Kansas City	68%	 
-Dallas (-4.5)	66%	 
-@ Philadelphia	34%	 
+@ Detroit (-3.0)	59%	 
+Green Bay	41%	 
+Los Angeles (LAR) (-4.5)	42%	 
+@ Las Vegas	58%	 
+@ Seattle (-2.5)	33%	 
+Kansas City	67%	 
+Dallas (-4.5)	67%	 
+@ Philadelphia	33%	 
 Strategy Tips from PoolGenius
 Week 7 pick analysis
 How to win pick'em pools
@@ -529,7 +456,7 @@ What winning entries look like
 Why pool size matters
 Weekly vs. season-long strategy
 FREE TRIAL: Expert pick'em picks »
-Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Your Privacy Choices  - About Our Ads - Help
+Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Privacy Dashboard  - About Our Ads - Help
 
 Certain Data by Sportradar and Rotowire
 
