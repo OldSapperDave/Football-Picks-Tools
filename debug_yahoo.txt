@@ -49,11 +49,11 @@ Playoffs:
 3
 4
 Status
-COMPLETE
+INCOMPLETE
 Picks Saved
-14 of 14
+0 of 14
 Tiebreakers
-Entered
+Not Entered
 Available Confidence Points
 1
 2
@@ -89,19 +89,10 @@ Underdog
 
 matchup information
 	
-@Chicago
+@Green Bay
 	
 	vs	
-	New England	3.0	3.0	3.0	3.0	
-Incorrect
-Chi 30, NE 24	6
-
-matchup information
-	
-Pittsburgh
-	
-	vs	
-	@New Orleans	2.5	3.5	3.5	3.5	Sun 10/25 09:30 AM	
+	Carolina	4.0	3.5	--	--	Thu 10/29 08:15 PM	
 -
 1
 2
@@ -121,10 +112,10 @@ Pittsburgh
 
 matchup information
 	
-San Francisco
+@Buffalo
 	
 	vs	
-	@Atlanta	4.5	3.5	3.5	3.5	Sun 10/25 01:00 PM	
+	Baltimore	3.5	3.5	--	--	Sun 11/01 01:00 PM	
 -
 1
 2
@@ -144,10 +135,10 @@ San Francisco
 
 matchup information
 	
-Cleveland
+@Cincinnati
 	
 	vs	
-	@Tennessee	1.5	1.5	1.5	1.5	Sun 10/25 01:00 PM	
+	Tennessee	10.0	10.5	--	--	Sun 11/01 01:00 PM	
 -
 1
 2
@@ -167,125 +158,10 @@ Cleveland
 
 matchup information
 	
-@Minnesota
+@Dallas
 	
 	vs	
-	Indianapolis	5.5	6.5	6.5	6.5	Sun 10/25 01:00 PM	
--
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-
-
-matchup information
-	
-@New York (NYJ)
-	
-	vs	
-	Miami	5.5	4.5	4.5	4.5	Sun 10/25 01:00 PM	
--
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-
-
-matchup information
-	
-@Carolina
-	
-	vs	
-	Tampa Bay	3.5	3.5	3.5	3.5	Sun 10/25 01:00 PM	
--
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-
-
-matchup information
-	
-@Baltimore
-	
-	vs	
-	Cincinnati	3.0	3.0	2.5	2.5	Sun 10/25 01:00 PM	
--
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-
-
-matchup information
-	
-@Houston
-	
-	vs	
-	New York (NYG)	9.5	9.5	10.0	10.0	Sun 10/25 01:00 PM	
--
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-
-
-matchup information
-	
-Denver
-	
-	vs	
-	@Arizona	4.5	4.5	4.5	4.5	Sun 10/25 04:05 PM	
+	Arizona	6.5	6.5	--	--	Sun 11/01 01:00 PM	
 -
 1
 2
@@ -308,7 +184,7 @@ matchup information
 @Detroit
 	
 	vs	
-	Green Bay	3.5	3.0	3.0	3.0	Sun 10/25 04:25 PM	
+	Minnesota	3.0	3.5	--	--	Sun 11/01 01:00 PM	
 -
 1
 2
@@ -328,10 +204,171 @@ matchup information
 
 matchup information
 	
-Los Angeles (LAR)
+@New York (NYJ)
 	
 	vs	
-	@Las Vegas	5.5	4.5	4.5	4.5	Sun 10/25 04:25 PM	
+	Las Vegas	1.5	1.5	--	--	Sun 11/01 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+
+matchup information
+	
+@Pittsburgh
+	
+	vs	
+	Cleveland	3.5	3.5	--	--	Sun 11/01 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+
+matchup information
+	
+@Tampa Bay
+	
+	vs	
+	Atlanta	1.5	2.5	--	--	Sun 11/01 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+
+matchup information
+	
+@Jacksonville
+	
+	vs	
+	Indianapolis	7.5	7.5	--	--	Sun 11/01 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+
+matchup information
+	
+@Los Angeles (LAR)
+	
+	vs	
+	Los Angeles (LAC)	7.0	6.5	--	--	Sun 11/01 04:05 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+
+matchup information
+	
+Kansas City
+	
+	vs	
+	@Denver	1.5	1.5	--	--	Sun 11/01 04:25 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+
+matchup information
+	
+New England
+	
+	vs	
+	@Miami	7.5	7.5	--	--	Sun 11/01 04:25 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+
+
+matchup information
+	
+@Washington
+	
+	vs	
+	Philadelphia	3.5	4.5	--	--	Sun 11/01 08:20 PM	
 -
 1
 2
@@ -354,30 +391,7 @@ matchup information
 @Seattle
 	
 	vs	
-	Kansas City	2.5	2.5	2.5	2.5	Sun 10/25 08:20 PM	
--
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-
-
-matchup information
-	
-Dallas
-	
-	vs	
-	@Philadelphia	4.5	4.5	4.5	4.5	Mon 10/26 08:15 PM	
+	Chicago	3.0	3.0	--	--	Mon 11/02 08:15 PM	
 -
 1
 2
@@ -395,68 +409,127 @@ Dallas
 14
 
 Bold = Winning Team (Spread)	TOTAL POINTS	0
-Tiebreaker 1 Deadline Mon, Oct 26 8:10 pm EDT (DAL@PHI); Sun, Oct 25 8:20 pm EDT (KC@SEA)
+Tiebreaker 1 Deadline Mon, Nov 2 8:10 pm EST (CHI@SEA); Sun, Nov 1 8:20 pm EST (PHI@WAS)
 
 Predict the scores for these games:
 
-Dallas		@		Philadelphia
-Kansas City		@		Seattle
-Tiebreaker 2 Deadline Thu, Oct 22 8:10 pm EDT
-Who will score the MOST points this week?	Carolina
-Who will score the FEWEST points this week?	New York (NYG)
+Chicago		@		Seattle
+Philadelphia		@		Washington
+Tiebreaker 2 Deadline Thu, Oct 29 8:10 pm EDT
+Who will score the MOST points this week?	
+Select Team
+Arizona
+Atlanta
+Baltimore
+Buffalo
+Carolina
+Chicago
+Cincinnati
+Cleveland
+Dallas
+Denver
+Detroit
+Green Bay
+Indianapolis
+Jacksonville
+Kansas City
+Las Vegas
+Los Angeles (LAC)
+Los Angeles (LAR)
+Miami
+Minnesota
+New England
+New York (NYJ)
+Philadelphia
+Pittsburgh
+Seattle
+Tampa Bay
+Tennessee
+Washington
+
+Who will score the FEWEST points this week?	
+Select Team
+Arizona
+Atlanta
+Baltimore
+Buffalo
+Carolina
+Chicago
+Cincinnati
+Cleveland
+Dallas
+Denver
+Detroit
+Green Bay
+Indianapolis
+Jacksonville
+Kansas City
+Las Vegas
+Los Angeles (LAC)
+Los Angeles (LAR)
+Miami
+Minnesota
+New England
+New York (NYJ)
+Philadelphia
+Pittsburgh
+Seattle
+Tampa Bay
+Tennessee
+Washington
 
 Deadline: 5 minutes before each game
 
 Save Picks Cancel
 
 My Score
-Week 7
+Week 8
 NA
-0-1
+0-0
 Total Points
-362 pts
+426 pts
 Rank
-6/10
+7/10
 W-L
-45-48
-Pick Distribution - Week 7
+53-52
+Pick Distribution - Week 8
 Game	Pick Distribution
-@ Chicago (-3.0)	59%	 
-New England	41%	 
-Pittsburgh (-3.5)	50%	 
-@ New Orleans	50%	 
-San Francisco (-3.5)	76%	 
-@ Atlanta	24%	 
-Cleveland (-1.5)	77%	 
-@ Tennessee	23%	 
-@ Minnesota (-6.5)	71%	 
-Indianapolis	29%	 
-@ New York (NYJ) (-4.5)	73%	 
-Miami	27%	 
-@ Carolina (-3.5)	76%	 
-Tampa Bay	24%	 
-@ Baltimore (-2.5)	35%	 
-Cincinnati	65%	 
-@ Houston (-10.0)	37%	 
-New York (NYG)	63%	 
-Denver (-4.5)	67%	 
-@ Arizona	33%	 
-@ Detroit (-3.0)	59%	 
-Green Bay	41%	 
-Los Angeles (LAR) (-4.5)	42%	 
-@ Las Vegas	58%	 
-@ Seattle (-2.5)	33%	 
-Kansas City	67%	 
-Dallas (-4.5)	67%	 
-@ Philadelphia	33%	 
+@ Green Bay (-3.5)	76%	 
+Carolina	24%	 
+@ Buffalo (-3.5)	85%	 
+Baltimore	15%	 
+@ Cincinnati (-10.5)	61%	 
+Tennessee	39%	 
+@ Dallas (-6.5)	58%	 
+Arizona	42%	 
+@ Detroit (-3.5)	55%	 
+Minnesota	45%	 
+@ New York (NYJ) (-1.5)	25%	 
+Las Vegas	75%	 
+@ Pittsburgh (-3.5)	60%	 
+Cleveland	40%	 
+@ Tampa Bay (-2.5)	51%	 
+Atlanta	49%	 
+@ Jacksonville (-7.5)	68%	 
+Indianapolis	32%	 
+@ Los Angeles (LAR) (-6.5)	78%	 
+Los Angeles (LAC)	22%	 
+Kansas City (-1.5)	50%	 
+@ Denver	50%	 
+New England (-7.5)	68%	 
+@ Miami	32%	 
+@ Washington (-4.5)	70%	 
+Philadelphia	30%	 
+@ Seattle (-3.0)	63%	 
+Chicago	37%	 
 Strategy Tips from PoolGenius
-Week 7 pick analysis
+Week 8 pick analysis
 How to win pick'em pools
 What winning entries look like
 Why pool size matters
 Weekly vs. season-long strategy
 FREE TRIAL: Expert pick'em picks »
-Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Privacy Dashboard  - About Our Ads - Help
+Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Your Privacy Choices  - About Our Ads - Help
 
 Certain Data by Sportradar and Rotowire
 
