@@ -1,6 +1,7 @@
 Yahoo Sports
 Yahoo Sports
 Search query
+Home
 News
 Finance
 Sports
@@ -51,9 +52,9 @@ Playoffs:
 Status
 INCOMPLETE
 Picks Saved
-0 of 14
+1 of 14
 Tiebreakers
-Not Entered
+Entered
 Available Confidence Points
 1
 2
@@ -92,7 +93,7 @@ matchup information
 @Green Bay
 	
 	vs	
-	Carolina	4.0	3.5	--	--	Thu 10/29 08:15 PM	
+	Carolina	4.0	3.5	3.5	--	Thu 10/29 08:15 PM	
 -
 1
 2
@@ -115,7 +116,7 @@ matchup information
 @Buffalo
 	
 	vs	
-	Baltimore	3.5	3.5	--	--	Sun 11/01 01:00 PM	
+	Baltimore	3.5	3.5	3.5	--	Sun 11/01 01:00 PM	
 -
 1
 2
@@ -138,7 +139,7 @@ matchup information
 @Cincinnati
 	
 	vs	
-	Tennessee	10.0	10.5	--	--	Sun 11/01 01:00 PM	
+	Tennessee	10.0	10.5	10.5	--	Sun 11/01 01:00 PM	
 -
 1
 2
@@ -161,7 +162,7 @@ matchup information
 @Dallas
 	
 	vs	
-	Arizona	6.5	6.5	--	--	Sun 11/01 01:00 PM	
+	Arizona	6.5	6.5	6.5	--	Sun 11/01 01:00 PM	
 -
 1
 2
@@ -184,7 +185,7 @@ matchup information
 @Detroit
 	
 	vs	
-	Minnesota	3.0	3.5	--	--	Sun 11/01 01:00 PM	
+	Minnesota	3.0	3.5	3.5	--	Sun 11/01 01:00 PM	
 -
 1
 2
@@ -207,7 +208,7 @@ matchup information
 @New York (NYJ)
 	
 	vs	
-	Las Vegas	1.5	1.5	--	--	Sun 11/01 01:00 PM	
+	Las Vegas	1.5	1.5	1.5	--	Sun 11/01 01:00 PM	
 -
 1
 2
@@ -230,7 +231,7 @@ matchup information
 @Pittsburgh
 	
 	vs	
-	Cleveland	3.5	3.5	--	--	Sun 11/01 01:00 PM	
+	Cleveland	3.5	3.5	3.5	--	Sun 11/01 01:00 PM	
 -
 1
 2
@@ -253,7 +254,7 @@ matchup information
 @Tampa Bay
 	
 	vs	
-	Atlanta	1.5	2.5	--	--	Sun 11/01 01:00 PM	
+	Atlanta	1.5	2.5	2.5	--	Sun 11/01 01:00 PM	
 -
 1
 2
@@ -276,7 +277,7 @@ matchup information
 @Jacksonville
 	
 	vs	
-	Indianapolis	7.5	7.5	--	--	Sun 11/01 01:00 PM	
+	Indianapolis	7.5	7.5	9.5	--	Sun 11/01 01:00 PM	
 -
 1
 2
@@ -299,7 +300,7 @@ matchup information
 @Los Angeles (LAR)
 	
 	vs	
-	Los Angeles (LAC)	7.0	6.5	--	--	Sun 11/01 04:05 PM	
+	Los Angeles (LAC)	7.0	6.5	6.5	--	Sun 11/01 04:05 PM	
 -
 1
 2
@@ -322,7 +323,7 @@ matchup information
 Kansas City
 	
 	vs	
-	@Denver	1.5	1.5	--	--	Sun 11/01 04:25 PM	
+	@Denver	1.5	1.5	1.5	--	Sun 11/01 04:25 PM	
 -
 1
 2
@@ -345,7 +346,7 @@ matchup information
 New England
 	
 	vs	
-	@Miami	7.5	7.5	--	--	Sun 11/01 04:25 PM	
+	@Miami	7.5	7.5	7.0	--	Sun 11/01 04:25 PM	
 -
 1
 2
@@ -368,7 +369,7 @@ matchup information
 @Washington
 	
 	vs	
-	Philadelphia	3.5	4.5	--	--	Sun 11/01 08:20 PM	
+	Philadelphia	3.5	4.5	5.5	--	Sun 11/01 08:20 PM	
 -
 1
 2
@@ -391,7 +392,7 @@ matchup information
 @Seattle
 	
 	vs	
-	Chicago	3.0	3.0	--	--	Mon 11/02 08:15 PM	
+	Chicago	3.0	3.0	3.0	--	Mon 11/02 08:15 PM	
 -
 1
 2
@@ -498,30 +499,30 @@ Game	Pick Distribution
 Carolina	24%	 
 @ Buffalo (-3.5)	85%	 
 Baltimore	15%	 
-@ Cincinnati (-10.5)	61%	 
-Tennessee	39%	 
-@ Dallas (-6.5)	58%	 
-Arizona	42%	 
-@ Detroit (-3.5)	55%	 
-Minnesota	45%	 
-@ New York (NYJ) (-1.5)	25%	 
-Las Vegas	75%	 
+@ Cincinnati (-10.5)	58%	 
+Tennessee	42%	 
+@ Dallas (-6.5)	60%	 
+Arizona	40%	 
+@ Detroit (-3.5)	53%	 
+Minnesota	47%	 
+@ New York (NYJ) (-1.5)	27%	 
+Las Vegas	73%	 
 @ Pittsburgh (-3.5)	60%	 
 Cleveland	40%	 
 @ Tampa Bay (-2.5)	51%	 
 Atlanta	49%	 
-@ Jacksonville (-7.5)	68%	 
-Indianapolis	32%	 
-@ Los Angeles (LAR) (-6.5)	78%	 
-Los Angeles (LAC)	22%	 
+@ Jacksonville (-9.5)	69%	 
+Indianapolis	31%	 
+@ Los Angeles (LAR) (-6.5)	80%	 
+Los Angeles (LAC)	20%	 
 Kansas City (-1.5)	50%	 
 @ Denver	50%	 
-New England (-7.5)	68%	 
-@ Miami	32%	 
-@ Washington (-4.5)	70%	 
+New England (-7.0)	70%	 
+@ Miami	30%	 
+@ Washington (-5.5)	70%	 
 Philadelphia	30%	 
-@ Seattle (-3.0)	63%	 
-Chicago	37%	 
+@ Seattle (-3.0)	64%	 
+Chicago	36%	 
 Strategy Tips from PoolGenius
 Week 8 pick analysis
 How to win pick'em pools
