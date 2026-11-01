@@ -1,5 +1,18 @@
 === YAHOO ===
-
+CAR @ GB -3.5
+BAL @ BUF -3.5
+TEN @ CIN -10.5
+ARI @ DAL -6.5
+MIN @ DET -3.5
+LV @ NYJ -1.5
+CLE @ PIT -3.5
+ATL @ TB -2.5
+IND @ JAX -9.5
+LAC @ LAR -6.5
+KC @ DEN +1.5
+NE @ MIA +7
+PHI @ WAS -5.5
+CHI @ SEA -3
 
 === DRAFTKINGS ===
 ARI @ DAL -7
@@ -13,10 +26,8 @@ LV @ NYJ -1.5
 LAC @ LAR -6.5
 KC @ DEN +1.5
 NE @ MIA +7
-PHI @ WAS -6
+PHI @ WAS -6.5
 CHI @ SEA -3
-JAX @ BAL -3
-CIN @ ATL +3
 
 === DVOA ===
 SF 35.4%
