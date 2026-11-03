@@ -32,10 +32,13 @@ jobs:
         with:
           name: debug-text
           path: debug_*.txt
-      - name: Commit week.json
+      - name: name: Commit week.json
         run: |
           git config user.name "picks-bot"
           git config user.email "picks-bot@users.noreply.github.com"
           git add week.json week_paste.txt debug_*.txt
           git commit -m "Pull $(date -u +%F)" || echo "nothing changed"
-          git push
+          for i in 1 2 3; do
+            git pull --rebase --autostash origin main && git push && break
+            echo "push rejected, retrying ($i)"; sleep 5
+          done
