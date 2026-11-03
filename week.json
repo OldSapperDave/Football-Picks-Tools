@@ -1,204 +1,219 @@
 {
   "yahoo": {
-    "CAR@GB": -3.5,
-    "BAL@BUF": -3.5,
-    "TEN@CIN": -10.5,
-    "ARI@DAL": -6.5,
-    "MIN@DET": -3.5,
-    "LV@NYJ": -1.5,
-    "CLE@PIT": -3.5,
-    "ATL@TB": -2.5,
-    "IND@JAX": -9.5,
-    "LAC@LAR": -6.5,
-    "KC@DEN": 1.5,
-    "NE@MIA": 7.0,
-    "PHI@WAS": -5.5,
-    "CHI@SEA": -3.0
+    "JAX@BAL": 8.5,
+    "CIN@ATL": 3.0,
+    "DAL@IND": 6.0,
+    "NYJ@KC": -9.5,
+    "DET@MIA": 7.0,
+    "CLE@NO": -2.5,
+    "NYG@PHI": 3.5,
+    "LAR@WAS": 5.5,
+    "DEN@CAR": 3.0,
+    "HOU@LAC": 4.5,
+    "GB@NE": -3.0,
+    "LV@SF": -10.0,
+    "ARI@SEA": -11.0,
+    "TB@CHI": -6.0,
+    "BUF@MIN": 3.5
   },
   "yahoo_pick_pct": {
-    "CAR@GB": {
-      "GB": 91,
-      "CAR": 9
+    "JAX@BAL": {
+      "JAX": 78,
+      "BAL": 22
     },
-    "BAL@BUF": {
-      "BUF": 95,
-      "BAL": 5
+    "CIN@ATL": {
+      "CIN": 88,
+      "ATL": 12
     },
-    "TEN@CIN": {
-      "CIN": 98,
-      "TEN": 2
+    "DAL@IND": {
+      "DAL": 84,
+      "IND": 16
     },
-    "ARI@DAL": {
-      "DAL": 90,
-      "ARI": 10
+    "NYJ@KC": {
+      "KC": 99,
+      "NYJ": 1
     },
-    "MIN@DET": {
-      "DET": 69,
-      "MIN": 31
-    },
-    "LV@NYJ": {
-      "NYJ": 23,
-      "LV": 77
-    },
-    "CLE@PIT": {
-      "PIT": 80,
-      "CLE": 20
-    },
-    "ATL@TB": {
-      "TB": 57,
-      "ATL": 43
-    },
-    "IND@JAX": {
-      "JAX": 97,
-      "IND": 3
-    },
-    "LAC@LAR": {
-      "LAR": 97,
-      "LAC": 3
-    },
-    "KC@DEN": {
-      "KC": 53,
-      "DEN": 47
-    },
-    "NE@MIA": {
-      "NE": 96,
+    "DET@MIA": {
+      "DET": 96,
       "MIA": 4
     },
-    "PHI@WAS": {
-      "WAS": 85,
-      "PHI": 15
+    "CLE@NO": {
+      "NO": 68,
+      "CLE": 32
     },
-    "CHI@SEA": {
-      "SEA": 77,
-      "CHI": 23
+    "NYG@PHI": {
+      "NYG": 72,
+      "PHI": 28
+    },
+    "LAR@WAS": {
+      "LAR": 90,
+      "WAS": 10
+    },
+    "DEN@CAR": {
+      "DEN": 88,
+      "CAR": 12
+    },
+    "HOU@LAC": {
+      "HOU": 74,
+      "LAC": 26
+    },
+    "GB@NE": {
+      "NE": 66,
+      "GB": 34
+    },
+    "LV@SF": {
+      "SF": 97,
+      "LV": 3
+    },
+    "ARI@SEA": {
+      "SEA": 97,
+      "ARI": 3
+    },
+    "TB@CHI": {
+      "CHI": 95,
+      "TB": 5
+    },
+    "BUF@MIN": {
+      "BUF": 84,
+      "MIN": 16
     }
   },
   "dk": {
-    "ARI@DAL": -7.0,
-    "ATL@TB": -2.5,
-    "BAL@BUF": -3.0,
-    "TEN@CIN": -12.5,
-    "CLE@PIT": -3.5,
-    "MIN@DET": -3.0,
-    "IND@JAX": -10.0,
-    "LV@NYJ": -1.5,
-    "LAC@LAR": -6.5,
-    "KC@DEN": 1.5,
-    "NE@MIA": 7.0,
-    "PHI@WAS": -6.5,
-    "CHI@SEA": -3.0
+    "JAX@BAL": 9.5,
+    "CIN@ATL": 3.0,
+    "DEN@CAR": 2.5,
+    "CLE@NO": -2.5,
+    "DAL@IND": 6.0,
+    "DET@MIA": 7.0,
+    "NYJ@KC": -9.5,
+    "LAR@WAS": 5.5,
+    "NYG@PHI": 3.5,
+    "HOU@LAC": 4.5,
+    "LV@SF": -10.0,
+    "ARI@SEA": -10.5,
+    "GB@NE": -2.5,
+    "TB@CHI": -6.0,
+    "BUF@MIN": 3.5
   },
   "consensus": {
-    "ARI@DAL": -7.0,
-    "ATL@TB": -2.0,
-    "BAL@BUF": -3.5,
-    "TEN@CIN": -12.5,
-    "CLE@PIT": -3.5,
-    "MIN@DET": -3.5,
-    "IND@JAX": -10.0,
-    "LV@NYJ": -1.5,
-    "LAC@LAR": -6.5,
-    "KC@DEN": 1.0,
-    "NE@MIA": 7.0,
-    "PHI@WAS": -6.5,
-    "CHI@SEA": -3.0
+    "JAX@BAL": 9.5,
+    "CIN@ATL": 3.0,
+    "DEN@CAR": 3.0,
+    "CLE@NO": -2.5,
+    "DAL@IND": 5.5,
+    "DET@MIA": 7.0,
+    "NYJ@KC": -9.5,
+    "LAR@WAS": 5.5,
+    "NYG@PHI": 3.5,
+    "HOU@LAC": 4.5,
+    "LV@SF": -10.0,
+    "ARI@SEA": -11.0,
+    "GB@NE": -3.0,
+    "TB@CHI": -6.0,
+    "BUF@MIN": 3.0
   },
   "pinnacle": {
-    "ARI@DAL": -7.5,
-    "ATL@TB": -2.5,
-    "BAL@BUF": -3.5,
-    "TEN@CIN": -13.0,
-    "CLE@PIT": -3.5,
-    "MIN@DET": -3.5,
-    "IND@JAX": -10.5,
-    "LV@NYJ": -1.0,
-    "LAC@LAR": -6.5,
-    "KC@DEN": 1.0,
-    "NE@MIA": 7.0,
-    "PHI@WAS": -6.0,
-    "CHI@SEA": -3.0
+    "CIN@ATL": 3.0,
+    "DEN@CAR": 3.0,
+    "CLE@NO": -2.5,
+    "DAL@IND": 5.5,
+    "DET@MIA": 7.5,
+    "NYJ@KC": -10.0,
+    "LAR@WAS": 6.0,
+    "NYG@PHI": 3.0,
+    "HOU@LAC": 4.5,
+    "LV@SF": -10.0,
+    "ARI@SEA": -11.0,
+    "GB@NE": -2.5,
+    "TB@CHI": -6.5,
+    "BUF@MIN": 3.0
   },
   "kickoff": {
-    "ARI@DAL": "2026-11-01T18:00:00Z",
-    "ATL@TB": "2026-11-01T18:00:00Z",
-    "BAL@BUF": "2026-11-01T18:00:00Z",
-    "TEN@CIN": "2026-11-01T18:00:00Z",
-    "CLE@PIT": "2026-11-01T18:00:00Z",
-    "MIN@DET": "2026-11-01T18:00:00Z",
-    "IND@JAX": "2026-11-01T18:00:00Z",
-    "LV@NYJ": "2026-11-01T18:00:00Z",
-    "LAC@LAR": "2026-11-01T21:05:00Z",
-    "KC@DEN": "2026-11-01T21:25:00Z",
-    "NE@MIA": "2026-11-01T21:25:00Z",
-    "PHI@WAS": "2026-11-02T01:20:00Z",
-    "CHI@SEA": "2026-11-03T01:20:00Z"
+    "JAX@BAL": "2026-11-06T01:15:00Z",
+    "CIN@ATL": "2026-11-08T14:30:00Z",
+    "DEN@CAR": "2026-11-08T18:00:00Z",
+    "CLE@NO": "2026-11-08T18:00:00Z",
+    "DAL@IND": "2026-11-08T18:00:00Z",
+    "DET@MIA": "2026-11-08T18:00:00Z",
+    "NYJ@KC": "2026-11-08T18:00:00Z",
+    "LAR@WAS": "2026-11-08T18:00:00Z",
+    "NYG@PHI": "2026-11-08T18:00:00Z",
+    "HOU@LAC": "2026-11-08T21:05:00Z",
+    "LV@SF": "2026-11-08T21:05:00Z",
+    "ARI@SEA": "2026-11-08T21:25:00Z",
+    "GB@NE": "2026-11-08T21:25:00Z",
+    "TB@CHI": "2026-11-09T01:20:00Z",
+    "BUF@MIN": "2026-11-10T01:15:00Z"
   },
   "totals": {
-    "ARI@DAL": 54.5,
-    "ATL@TB": 43.0,
-    "BAL@BUF": 54.5,
-    "TEN@CIN": 46.0,
-    "CLE@PIT": 39.0,
-    "MIN@DET": 46.0,
-    "IND@JAX": 46.5,
-    "LV@NYJ": 46.5,
-    "LAC@LAR": 45.5,
-    "KC@DEN": 41.0,
-    "NE@MIA": 42.0,
-    "PHI@WAS": 40.5,
-    "CHI@SEA": 46.5
+    "JAX@BAL": 42.0,
+    "CIN@ATL": 52.0,
+    "DEN@CAR": 43.5,
+    "CLE@NO": 43.5,
+    "DAL@IND": 51.5,
+    "DET@MIA": 50.5,
+    "NYJ@KC": 46.5,
+    "LAR@WAS": 47.5,
+    "NYG@PHI": 40.0,
+    "HOU@LAC": 40.5,
+    "LV@SF": 51.5,
+    "ARI@SEA": 42.0,
+    "GB@NE": 47.0,
+    "TB@CHI": 46.5,
+    "BUF@MIN": 46.0
   },
   "dvoa": {
-    "SF": 35.4,
-    "CIN": 32.7,
-    "JAX": 29.2,
-    "BUF": 21.7,
-    "SEA": 18.0,
-    "MIN": 17.5,
-    "KC": 15.4,
-    "TB": 15.4,
-    "PIT": 14.7,
-    "LAR": 13.8,
-    "DEN": 12.2,
-    "NE": 10.0,
-    "CAR": 7.0,
+    "SF": 35.7,
+    "JAX": 33.6,
+    "CIN": 26.6,
+    "BUF": 25.3,
+    "TB": 20.3,
+    "PIT": 17.6,
+    "LAR": 16.0,
+    "KC": 14.8,
+    "NE": 12.9,
+    "MIN": 12.8,
+    "DEN": 11.0,
+    "SEA": 10.5,
+    "CHI": 9.3,
     "HOU": 6.7,
-    "BAL": 4.7,
-    "DAL": 3.6,
-    "CHI": 3.4,
-    "DET": 2.3,
-    "ATL": -0.5,
-    "GB": -1.7,
-    "CLE": -6.2,
-    "NYJ": -11.1,
-    "ARI": -13.1,
-    "WAS": -15.6,
-    "NYG": -16.9,
-    "IND": -17.0,
-    "LV": -17.2,
-    "PHI": -23.4,
-    "NO": -30.1,
-    "MIA": -35.1,
-    "TEN": -36.1,
-    "LAC": -38.6
+    "GB": 5.9,
+    "DET": 3.3,
+    "CAR": 1.5,
+    "DAL": 0.7,
+    "BAL": -3.1,
+    "ATL": -7.1,
+    "ARI": -9.5,
+    "CLE": -9.9,
+    "NYJ": -11.7,
+    "WAS": -12.2,
+    "LV": -13.6,
+    "NYG": -16.6,
+    "IND": -21.3,
+    "PHI": -27.7,
+    "NO": -29.9,
+    "TEN": -32.5,
+    "MIA": -34.3,
+    "LAC": -35.8
   },
   "ftn_proj": {
-    "CAR@GB": 0.0,
-    "MIN@DET": -2.0,
-    "LV@NYJ": -1.5,
-    "ARI@DAL": -7.5,
-    "ATL@TB": -4.5,
-    "BAL@BUF": -5.5,
-    "IND@JAX": -8.5,
-    "TEN@CIN": -13.0,
-    "CLE@PIT": -6.5,
-    "LAC@LAR": -13.5,
-    "KC@DEN": -0.5,
-    "NE@MIA": 4.5,
-    "PHI@WAS": -4.5,
-    "CHI@SEA": -4.5
+    "JAX@BAL": 9.0,
+    "CIN@ATL": 7.0,
+    "CLE@NO": 1.5,
+    "DET@MIA": 6.0,
+    "LAR@WAS": 6.5,
+    "DAL@IND": 3.5,
+    "NYG@PHI": -0.5,
+    "NYJ@KC": -9.5,
+    "DEN@CAR": 3.5,
+    "HOU@LAC": 7.5,
+    "LV@SF": -7.5,
+    "GB@NE": -5.0,
+    "ARI@SEA": -8.5,
+    "TB@CHI": -1.5,
+    "BUF@MIN": 3.0
   },
-  "pulled_at": "2026-11-01 14:19",
+  "pulled_at": "2026-11-03 17:24",
   "yahoo_source": "public distribution page",
   "dvoa_season": "2026"
 }

@@ -45,191 +45,203 @@ No Spread or Confidence
 Spread Only
 Confidence Only
 Spread and Confidence
-Thursday, Oct 29, 8:15 pm EDT
+Thursday, Nov 5, 8:15 pm EST
 Favorite
-@ Green Bay
+Jacksonville
 Favorite Pick Percentage
-91%
+78%
 Underdog
-Carolina
+@ Baltimore
 Underdog Pick Percentage
-9%
-GB		CAR
+22%
+JAX		BAL
 N/A	Avg. Confidence	N/A
-5-3 (3-1)	Record	3-4 (2-2)
-3.5 pts	Favorite	 
-Sunday, Nov 1, 1:00 pm EST
+5-2 (1-1)	Record	4-4 (1-2)
+8.5 pts	Favorite	 
+Sunday, Nov 8, 9:30 am EST
 Favorite
-@ Buffalo
+Cincinnati
 Favorite Pick Percentage
-95%
+88%
 Underdog
-Baltimore
+@ Atlanta
 Underdog Pick Percentage
-5%
-BUF		BAL
+12%
+CIN		ATL
 N/A	Avg. Confidence	N/A
-5-1 (2-1)	Record	4-3 (3-1)
-3.5 pts	Favorite	 
-Sunday, Nov 1, 1:00 pm EST
+5-2 (3-1)	Record	3-5 (1-3)
+3.0 pts	Favorite	 
+Sunday, Nov 8, 1:00 pm EST
 Favorite
-@ Cincinnati
+Dallas
 Favorite Pick Percentage
-98%
+84%
 Underdog
-Tennessee
+@ Indianapolis
 Underdog Pick Percentage
-2%
-CIN		TEN
+16%
+DAL		IND
 N/A	Avg. Confidence	N/A
-4-2 (1-1)	Record	1-6 (1-2)
-10.5 pts	Favorite	 
-Sunday, Nov 1, 1:00 pm EST
+3-5 (2-2)	Record	2-6 (1-2)
+6.0 pts	Favorite	 
+Sunday, Nov 8, 1:00 pm EST
 Favorite
-@ Dallas
+@ Kansas City
 Favorite Pick Percentage
-90%
+99%
 Underdog
-Arizona
+New York (NYJ)
 Underdog Pick Percentage
-10%
-DAL		ARI
+1%
+KC		NYJ
 N/A	Avg. Confidence	N/A
-3-4 (1-2)	Record	2-5 (2-2)
-6.5 pts	Favorite	 
-Sunday, Nov 1, 1:00 pm EST
-Favorite
-@ Detroit
-Favorite Pick Percentage
-69%
-Underdog
-Minnesota
-Underdog Pick Percentage
-31%
-DET		MIN
-N/A	Avg. Confidence	N/A
-4-2 (3-0)	Record	6-0 (3-0)
-3.5 pts	Favorite	 
-Sunday, Nov 1, 1:00 pm EST
-Favorite
-@ New York (NYJ)
-Favorite Pick Percentage
-23%
-Underdog
-Las Vegas
-Underdog Pick Percentage
-77%
-NYJ		LV
-N/A	Avg. Confidence	N/A
-2-5 (1-2)	Record	3-4 (2-1)
-1.5 pts	Favorite	 
-Sunday, Nov 1, 1:00 pm EST
-Favorite
-@ Pittsburgh
-Favorite Pick Percentage
-80%
-Underdog
-Cleveland
-Underdog Pick Percentage
-20%
-PIT		CLE
-N/A	Avg. Confidence	N/A
-5-2 (3-0)	Record	5-2 (2-2)
-3.5 pts	Favorite	 
-Sunday, Nov 1, 1:00 pm EST
-Favorite
-@ Tampa Bay
-Favorite Pick Percentage
-57%
-Underdog
-Atlanta
-Underdog Pick Percentage
-43%
-TB		ATL
-N/A	Avg. Confidence	N/A
-2-5 (0-4)	Record	3-4 (2-1)
-2.5 pts	Favorite	 
-Sunday, Nov 1, 1:00 pm EST
-Favorite
-@ Jacksonville
-Favorite Pick Percentage
-97%
-Underdog
-Indianapolis
-Underdog Pick Percentage
-3%
-JAX		IND
-N/A	Avg. Confidence	N/A
-4-2 (3-1)	Record	2-5 (1-3)
+5-2 (3-0)	Record	2-6 (1-3)
 9.5 pts	Favorite	 
-Sunday, Nov 1, 4:05 pm EST
+Sunday, Nov 8, 1:00 pm EST
 Favorite
-@ Los Angeles (LAR)
-Favorite Pick Percentage
-97%
-Underdog
-Los Angeles (LAC)
-Underdog Pick Percentage
-3%
-LAR		LAC
-N/A	Avg. Confidence	N/A
-3-4 (1-3)	Record	0-6 (0-3)
-6.5 pts	Favorite	 
-Sunday, Nov 1, 4:25 pm EST
-Favorite
-Kansas City
-Favorite Pick Percentage
-53%
-Underdog
-@ Denver
-Underdog Pick Percentage
-47%
-KC		DEN
-N/A	Avg. Confidence	N/A
-5-1 (2-1)	Record	5-2 (3-0)
-1.5 pts	Favorite	 
-Sunday, Nov 1, 4:25 pm EST
-Favorite
-New England
+Detroit
 Favorite Pick Percentage
 96%
 Underdog
 @ Miami
 Underdog Pick Percentage
 4%
-NE		MIA
+DET		MIA
 N/A	Avg. Confidence	N/A
-4-3 (1-3)	Record	1-5 (0-2)
+5-2 (1-2)	Record	1-6 (0-3)
 7.0 pts	Favorite	 
-Sunday, Nov 1, 8:20 pm EST
+Sunday, Nov 8, 1:00 pm EST
 Favorite
-@ Washington
+@ New Orleans
 Favorite Pick Percentage
-85%
+68%
 Underdog
-Philadelphia
+Cleveland
 Underdog Pick Percentage
-15%
-WAS		PHI
+32%
+NO		CLE
 N/A	Avg. Confidence	N/A
-1-4 (1-1)	Record	2-5 (1-2)
+2-5 (0-4)	Record	5-3 (2-3)
+2.5 pts	Favorite	 
+Sunday, Nov 8, 1:00 pm EST
+Favorite
+New York (NYG)
+Favorite Pick Percentage
+72%
+Underdog
+@ Philadelphia
+Underdog Pick Percentage
+28%
+NYG		PHI
+N/A	Avg. Confidence	N/A
+4-2 (1-1)	Record	2-6 (1-3)
+3.5 pts	Favorite	 
+Sunday, Nov 8, 1:00 pm EST
+Favorite
+Los Angeles (LAR)
+Favorite Pick Percentage
+90%
+Underdog
+@ Washington
+Underdog Pick Percentage
+10%
+LAR		WAS
+N/A	Avg. Confidence	N/A
+4-4 (2-1)	Record	2-4 (2-1)
 5.5 pts	Favorite	 
-Monday, Nov 2, 8:15 pm EST
+Sunday, Nov 8, 1:00 pm EST
+Favorite
+Denver
+Favorite Pick Percentage
+88%
+Underdog
+@ Carolina
+Underdog Pick Percentage
+12%
+DEN		CAR
+N/A	Avg. Confidence	N/A
+6-2 (2-2)	Record	3-4 (1-2)
+3.0 pts	Favorite	 
+Sunday, Nov 8, 4:05 pm EST
+Favorite
+Houston
+Favorite Pick Percentage
+74%
+Underdog
+@ Los Angeles (LAC)
+Underdog Pick Percentage
+26%
+HOU		LAC
+N/A	Avg. Confidence	N/A
+2-5 (2-1)	Record	0-7 (0-3)
+4.5 pts	Favorite	 
+Sunday, Nov 8, 4:25 pm EST
+Favorite
+@ New England
+Favorite Pick Percentage
+66%
+Underdog
+Green Bay
+Underdog Pick Percentage
+34%
+NE		GB
+N/A	Avg. Confidence	N/A
+5-3 (3-0)	Record	5-3 (2-2)
+3.0 pts	Favorite	 
+Sunday, Nov 8, 4:25 pm EST
+Favorite
+@ San Francisco
+Favorite Pick Percentage
+97%
+Underdog
+Las Vegas
+Underdog Pick Percentage
+3%
+SF		LV
+N/A	Avg. Confidence	N/A
+6-1 (4-0)	Record	4-4 (3-1)
+10.0 pts	Favorite	 
+Sunday, Nov 8, 4:25 pm EST
 Favorite
 @ Seattle
 Favorite Pick Percentage
-77%
+97%
 Underdog
-Chicago
+Arizona
 Underdog Pick Percentage
-23%
-SEA		CHI
+3%
+SEA		ARI
 N/A	Avg. Confidence	N/A
-4-3 (3-1)	Record	5-2 (2-1)
-3.0 pts	Favorite	 
+4-4 (3-2)	Record	3-5 (3-2)
+11.0 pts	Favorite	 
+Sunday, Nov 8, 8:20 pm EST
+Favorite
+@ Chicago
+Favorite Pick Percentage
+95%
+Underdog
+Tampa Bay
+Underdog Pick Percentage
+5%
+CHI		TB
+N/A	Avg. Confidence	N/A
+6-2 (3-1)	Record	3-5 (2-1)
+6.0 pts	Favorite	 
+Monday, Nov 9, 8:15 pm EST
+Favorite
+Buffalo
+Favorite Pick Percentage
+84%
+Underdog
+@ Minnesota
+Underdog Pick Percentage
+16%
+BUF		MIN
+N/A	Avg. Confidence	N/A
+6-1 (3-0)	Record	6-1 (3-0)
+3.5 pts	Favorite	 
 	
 Strategy Tips from PoolGenius
-Week 8 pick analysis
 How to win pick'em pools
 What winning entries look like
 Why pool size matters
