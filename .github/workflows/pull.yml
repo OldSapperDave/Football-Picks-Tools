@@ -36,7 +36,7 @@ jobs:
         with:
           name: debug-text
           path: debug_*.txt
-      - name: name: Commit week.json
+      - name: Commit week.json
         run: |
           git config user.name "picks-bot"
           git config user.email "picks-bot@users.noreply.github.com"
