@@ -1,34 +1,20 @@
 === YAHOO ===
-JAX @ BAL +8.5
-CIN @ ATL +3
-DAL @ IND +6
-NYJ @ KC -9.5
-DET @ MIA +7
-CLE @ NO -2.5
-NYG @ PHI +3.5
-LAR @ WAS +5.5
-DEN @ CAR +3
-HOU @ LAC +4.5
-GB @ NE -3
-LV @ SF -10
-ARI @ SEA -11
-TB @ CHI -6
-BUF @ MIN +3.5
+
 
 === DRAFTKINGS ===
-JAX @ BAL +9.5
+JAX @ BAL +10
 CIN @ ATL +3
 DEN @ CAR +2.5
-CLE @ NO -2.5
-DAL @ IND +6
+CLE @ NO -3
+DAL @ IND +5.5
 DET @ MIA +7
-NYJ @ KC -9.5
+NYJ @ KC -10
 LAR @ WAS +5.5
 NYG @ PHI +3.5
 HOU @ LAC +4.5
 LV @ SF -10
-ARI @ SEA -10.5
-GB @ NE -2.5
+ARI @ SEA -8.5
+GB @ NE -3
 TB @ CHI -6
 BUF @ MIN +3.5
 
