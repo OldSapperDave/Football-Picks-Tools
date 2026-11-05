@@ -23,7 +23,7 @@ CLE @ NO -3
 DAL @ IND +5.5
 DET @ MIA +7
 NYJ @ KC -10
-LAR @ WAS +5.5
+LAR @ WAS +4.5
 NYG @ PHI +3.5
 HOU @ LAC +4.5
 LV @ SF -10

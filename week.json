@@ -18,40 +18,40 @@
   },
   "yahoo_pick_pct": {
     "JAX@BAL": {
-      "JAX": 72,
-      "BAL": 28
+      "JAX": 69,
+      "BAL": 31
     },
     "CIN@ATL": {
       "CIN": 76,
       "ATL": 24
     },
     "DAL@IND": {
-      "DAL": 67,
-      "IND": 33
+      "DAL": 69,
+      "IND": 31
     },
     "NYJ@KC": {
       "NYJ": 35,
       "KC": 65
     },
     "DET@MIA": {
-      "DET": 78,
-      "MIA": 22
+      "DET": 79,
+      "MIA": 21
     },
     "CLE@NO": {
-      "CLE": 47,
-      "NO": 53
+      "CLE": 43,
+      "NO": 57
     },
     "NYG@PHI": {
-      "NYG": 77,
-      "PHI": 23
+      "NYG": 76,
+      "PHI": 24
     },
     "LAR@WAS": {
       "LAR": 69,
       "WAS": 31
     },
     "DEN@CAR": {
-      "DEN": 77,
-      "CAR": 23
+      "DEN": 78,
+      "CAR": 22
     },
     "HOU@LAC": {
       "HOU": 72,
@@ -62,20 +62,20 @@
       "NE": 52
     },
     "LV@SF": {
-      "LV": 49,
-      "SF": 51
+      "LV": 50,
+      "SF": 50
     },
     "ARI@SEA": {
-      "ARI": 60,
-      "SEA": 40
+      "ARI": 65,
+      "SEA": 35
     },
     "TB@CHI": {
       "TB": 18,
-      "CHI": 83
+      "CHI": 82
     },
     "BUF@MIN": {
-      "BUF": 75,
-      "MIN": 25
+      "BUF": 74,
+      "MIN": 26
     }
   },
   "dk": {
@@ -86,7 +86,7 @@
     "DAL@IND": 5.5,
     "DET@MIA": 7.0,
     "NYJ@KC": -10.0,
-    "LAR@WAS": 5.5,
+    "LAR@WAS": 4.5,
     "NYG@PHI": 3.5,
     "HOU@LAC": 4.5,
     "LV@SF": -10.0,
@@ -154,14 +154,14 @@
     "DAL@IND": 51.5,
     "DET@MIA": 50.5,
     "NYJ@KC": 47.5,
-    "LAR@WAS": 48.0,
-    "NYG@PHI": 39.0,
+    "LAR@WAS": 48.5,
+    "NYG@PHI": 38.5,
     "HOU@LAC": 40.5,
-    "LV@SF": 52.5,
+    "LV@SF": 52.0,
     "ARI@SEA": 39.5,
-    "GB@NE": 46.0,
+    "GB@NE": 45.5,
     "TB@CHI": 47.5,
-    "BUF@MIN": 45.5
+    "BUF@MIN": 45.0
   },
   "dvoa": {
     "SF": 35.7,
@@ -214,7 +214,7 @@
     "TB@CHI": -2.0,
     "BUF@MIN": 3.5
   },
-  "pulled_at": "2026-11-05 01:51",
+  "pulled_at": "2026-11-05 19:09",
   "yahoo_source": "league page (cookie)",
   "dvoa_season": "2026"
 }
