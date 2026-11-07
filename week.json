@@ -18,16 +18,16 @@
   },
   "yahoo_pick_pct": {
     "JAX@BAL": {
-      "JAX": 69,
-      "BAL": 31
+      "JAX": 68,
+      "BAL": 32
     },
     "CIN@ATL": {
-      "CIN": 76,
-      "ATL": 24
+      "CIN": 78,
+      "ATL": 22
     },
     "DAL@IND": {
-      "DAL": 69,
-      "IND": 31
+      "DAL": 70,
+      "IND": 30
     },
     "NYJ@KC": {
       "NYJ": 35,
@@ -38,91 +38,88 @@
       "MIA": 21
     },
     "CLE@NO": {
-      "CLE": 43,
-      "NO": 57
+      "CLE": 40,
+      "NO": 60
     },
     "NYG@PHI": {
       "NYG": 76,
       "PHI": 24
     },
     "LAR@WAS": {
-      "LAR": 69,
-      "WAS": 31
+      "LAR": 68,
+      "WAS": 32
     },
     "DEN@CAR": {
       "DEN": 78,
       "CAR": 22
     },
     "HOU@LAC": {
-      "HOU": 72,
-      "LAC": 28
+      "HOU": 71,
+      "LAC": 29
     },
     "GB@NE": {
-      "GB": 48,
-      "NE": 52
+      "GB": 50,
+      "NE": 50
     },
     "LV@SF": {
       "LV": 50,
       "SF": 50
     },
     "ARI@SEA": {
-      "ARI": 65,
-      "SEA": 35
+      "ARI": 67,
+      "SEA": 33
     },
     "TB@CHI": {
-      "TB": 18,
-      "CHI": 82
+      "TB": 21,
+      "CHI": 79
     },
     "BUF@MIN": {
-      "BUF": 74,
-      "MIN": 26
+      "BUF": 75,
+      "MIN": 25
     }
   },
   "dk": {
-    "JAX@BAL": 10.0,
-    "CIN@ATL": 3.0,
-    "DEN@CAR": 2.5,
-    "CLE@NO": -3.0,
-    "DAL@IND": 5.5,
-    "DET@MIA": 7.0,
-    "NYJ@KC": -10.0,
+    "CIN@ATL": 3.5,
+    "DEN@CAR": 3.0,
+    "CLE@NO": -3.5,
+    "DAL@IND": 4.5,
+    "DET@MIA": 6.5,
+    "NYJ@KC": -9.5,
     "LAR@WAS": 4.5,
-    "NYG@PHI": 3.5,
-    "HOU@LAC": 4.5,
+    "NYG@PHI": 3.0,
+    "HOU@LAC": 6.0,
     "LV@SF": -10.0,
     "ARI@SEA": -8.5,
     "GB@NE": -3.0,
     "TB@CHI": -6.0,
-    "BUF@MIN": 3.5
+    "BUF@MIN": 3.0
   },
   "consensus": {
-    "JAX@BAL": 10.0,
     "CIN@ATL": 3.0,
     "DEN@CAR": 2.5,
-    "CLE@NO": -3.0,
-    "DAL@IND": 5.5,
-    "DET@MIA": 7.0,
-    "NYJ@KC": -10.0,
+    "CLE@NO": -3.5,
+    "DAL@IND": 4.5,
+    "DET@MIA": 6.5,
+    "NYJ@KC": -9.5,
     "LAR@WAS": 4.5,
     "NYG@PHI": 3.0,
-    "HOU@LAC": 4.5,
-    "LV@SF": -10.0,
+    "HOU@LAC": 5.5,
+    "LV@SF": -9.5,
     "ARI@SEA": -8.5,
     "GB@NE": -3.0,
     "TB@CHI": -6.0,
-    "BUF@MIN": 3.5
+    "BUF@MIN": 3.0
   },
   "pinnacle": {
-    "JAX@BAL": 10.5,
     "CIN@ATL": 3.0,
-    "DEN@CAR": 3.0,
-    "CLE@NO": -3.0,
+    "DEN@CAR": 2.5,
+    "CLE@NO": -3.5,
     "DAL@IND": 5.5,
-    "DET@MIA": 7.5,
+    "DET@MIA": 6.5,
     "NYJ@KC": -10.0,
-    "LAR@WAS": 5.5,
+    "LAR@WAS": 4.5,
     "NYG@PHI": 3.0,
-    "HOU@LAC": 4.5,
+    "HOU@LAC": 6.0,
     "LV@SF": -10.0,
     "ARI@SEA": -8.5,
     "GB@NE": -3.0,
@@ -130,7 +127,6 @@
     "BUF@MIN": 3.0
   },
   "kickoff": {
-    "JAX@BAL": "2026-11-06T01:15:00Z",
     "CIN@ATL": "2026-11-08T14:30:00Z",
     "DEN@CAR": "2026-11-08T18:00:00Z",
     "CLE@NO": "2026-11-08T18:00:00Z",
@@ -147,21 +143,20 @@
     "BUF@MIN": "2026-11-10T01:15:00Z"
   },
   "totals": {
-    "JAX@BAL": 39.5,
     "CIN@ATL": 52.5,
-    "DEN@CAR": 44.0,
+    "DEN@CAR": 44.5,
     "CLE@NO": 42.5,
     "DAL@IND": 51.5,
-    "DET@MIA": 50.5,
+    "DET@MIA": 50.0,
     "NYJ@KC": 47.5,
-    "LAR@WAS": 48.5,
+    "LAR@WAS": 47.5,
     "NYG@PHI": 38.5,
     "HOU@LAC": 40.5,
     "LV@SF": 52.0,
     "ARI@SEA": 39.5,
-    "GB@NE": 45.5,
+    "GB@NE": 44.5,
     "TB@CHI": 47.5,
-    "BUF@MIN": 45.0
+    "BUF@MIN": 44.5
   },
   "dvoa": {
     "SF": 35.7,
@@ -199,22 +194,22 @@
   },
   "ftn_proj": {
     "JAX@BAL": 10.0,
-    "CIN@ATL": 6.5,
-    "CLE@NO": 1.5,
-    "DET@MIA": 5.0,
-    "LAR@WAS": 6.5,
-    "DAL@IND": 3.0,
-    "NYG@PHI": -0.5,
-    "NYJ@KC": -8.5,
-    "DEN@CAR": 3.0,
-    "HOU@LAC": 8.5,
+    "CIN@ATL": 7.5,
+    "CLE@NO": -2.0,
+    "DET@MIA": 4.5,
+    "LAR@WAS": 7.0,
+    "DAL@IND": 3.5,
+    "NYG@PHI": 0.5,
+    "NYJ@KC": -9.5,
+    "DEN@CAR": 2.5,
+    "HOU@LAC": 8.0,
     "LV@SF": -9.0,
-    "GB@NE": -4.5,
+    "GB@NE": -5.0,
     "ARI@SEA": -7.5,
-    "TB@CHI": -2.0,
+    "TB@CHI": -1.5,
     "BUF@MIN": 3.5
   },
-  "pulled_at": "2026-11-05 19:09",
+  "pulled_at": "2026-11-07 17:04",
   "yahoo_source": "league page (cookie)",
   "dvoa_season": "2026"
 }

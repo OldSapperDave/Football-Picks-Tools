@@ -94,24 +94,9 @@ matchup information
 Jacksonville
 	
 	vs	
-	@Baltimore	8.5	8.5	10.0	10.0	Thu 11/05 08:15 PM	
--
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-
+	@Baltimore	8.5	8.5	10.0	10.0	
+Correct
+Jax 33, Bal 10	3
 
 matchup information
 	
@@ -448,7 +433,7 @@ Buffalo
 14
 15
 
-Bold = Winning Team (Spread)	TOTAL POINTS	0
+Bold = Winning Team (Spread)	TOTAL POINTS	3
 Tiebreaker 1 Deadline Mon, Nov 9 8:10 pm EST (BUF@MIN); Sun, Nov 8 8:20 pm EST (TB@CHI)
 
 Predict the scores for these games:
@@ -456,71 +441,8 @@ Predict the scores for these games:
 Buffalo		@		Minnesota
 Tampa Bay		@		Chicago
 Tiebreaker 2 Deadline Thu, Nov 5 8:10 pm EST
-Who will score the MOST points this week?	
-Select Team
-Arizona
-Atlanta
-Baltimore
-Buffalo
-Carolina
-Chicago
-Cincinnati
-Cleveland
-Dallas
-Denver
-Detroit
-Green Bay
-Houston
-Indianapolis
-Jacksonville
-Kansas City
-Las Vegas
-Los Angeles (LAC)
-Los Angeles (LAR)
-Miami
-Minnesota
-New England
-New Orleans
-New York (NYG)
-New York (NYJ)
-Philadelphia
-San Francisco
-Seattle
-Tampa Bay
-Washington
-
-Who will score the FEWEST points this week?	
-Select Team
-Arizona
-Atlanta
-Baltimore
-Buffalo
-Carolina
-Chicago
-Cincinnati
-Cleveland
-Dallas
-Denver
-Detroit
-Green Bay
-Houston
-Indianapolis
-Jacksonville
-Kansas City
-Las Vegas
-Los Angeles (LAC)
-Los Angeles (LAR)
-Miami
-Minnesota
-New England
-New Orleans
-New York (NYG)
-New York (NYJ)
-Philadelphia
-San Francisco
-Seattle
-Tampa Bay
-Washington
+Who will score the MOST points this week?	Chicago
+Who will score the FEWEST points this week?	Baltimore
 
 Deadline: 5 minutes before each game
 
@@ -528,46 +450,46 @@ Save Picks Cancel
 
 My Score
 Week 9
-NA
-0-0
+3 pts
+1-0
 Total Points
-469 pts
+472 pts
 Rank
 6/10
 W-L
-59-60
+60-60
 Pick Distribution - Week 9
 Game	Pick Distribution
-Jacksonville (-10.0)	69%	 
-@ Baltimore	31%	 
-Cincinnati (-3.0)	76%	 
-@ Atlanta	24%	 
-Dallas (-6.0)	69%	 
-@ Indianapolis	31%	 
+Jacksonville (-10.0)	68%	 
+@ Baltimore	32%	 
+Cincinnati (-3.0)	78%	 
+@ Atlanta	22%	 
+Dallas (-6.0)	70%	 
+@ Indianapolis	30%	 
 @ Kansas City (-9.5)	65%	 
 New York (NYJ)	35%	 
 Detroit (-7.0)	79%	 
 @ Miami	21%	 
-@ New Orleans (-1.5)	57%	 
-Cleveland	43%	 
+@ New Orleans (-1.5)	60%	 
+Cleveland	40%	 
 New York (NYG) (-3.5)	76%	 
 @ Philadelphia	24%	 
-Los Angeles (LAR) (-5.5)	69%	 
-@ Washington	31%	 
+Los Angeles (LAR) (-5.5)	68%	 
+@ Washington	32%	 
 Denver (-2.5)	78%	 
 @ Carolina	22%	 
-Houston (-5.0)	72%	 
-@ Los Angeles (LAC)	28%	 
-@ New England (-3.0)	52%	 
-Green Bay	48%	 
+Houston (-5.0)	71%	 
+@ Los Angeles (LAC)	29%	 
+@ New England (-3.0)	50%	 
+Green Bay	50%	 
 @ San Francisco (-10.0)	50%	 
 Las Vegas	50%	 
-@ Seattle (-12.5)	35%	 
-Arizona	65%	 
-@ Chicago (-6.5)	82%	 
-Tampa Bay	18%	 
-Buffalo (-3.5)	74%	 
-@ Minnesota	26%	 
+@ Seattle (-12.5)	33%	 
+Arizona	67%	 
+@ Chicago (-6.5)	79%	 
+Tampa Bay	21%	 
+Buffalo (-3.5)	75%	 
+@ Minnesota	25%	 
 Strategy Tips from PoolGenius
 Week 9 pick analysis
 How to win pick'em pools
@@ -575,7 +497,7 @@ What winning entries look like
 Why pool size matters
 Weekly vs. season-long strategy
 FREE TRIAL: Expert pick'em picks »
-Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Your Privacy Choices  - About Our Ads - Help
+Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Privacy Dashboard  - About Our Ads - Help
 
 Certain Data by Sportradar and Rotowire
 
