@@ -16,18 +16,18 @@ TB @ CHI -6.5
 BUF @ MIN +3.5
 
 === DRAFTKINGS ===
-CIN @ ATL +3.5
-DEN @ CAR +3
-CLE @ NO -3.5
-DAL @ IND +4.5
+CIN @ ATL +3
+DEN @ CAR +2.5
+CLE @ NO -3
+DAL @ IND +5.5
 DET @ MIA +6.5
 NYJ @ KC -9.5
 LAR @ WAS +4.5
 NYG @ PHI +3
 HOU @ LAC +6
-LV @ SF -10
+LV @ SF -9.5
 ARI @ SEA -8.5
-GB @ NE -3
+GB @ NE -3.5
 TB @ CHI -6
 BUF @ MIN +3
 

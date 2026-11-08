@@ -79,18 +79,18 @@
     }
   },
   "dk": {
-    "CIN@ATL": 3.5,
-    "DEN@CAR": 3.0,
-    "CLE@NO": -3.5,
-    "DAL@IND": 4.5,
+    "CIN@ATL": 3.0,
+    "DEN@CAR": 2.5,
+    "CLE@NO": -3.0,
+    "DAL@IND": 5.5,
     "DET@MIA": 6.5,
     "NYJ@KC": -9.5,
     "LAR@WAS": 4.5,
     "NYG@PHI": 3.0,
     "HOU@LAC": 6.0,
-    "LV@SF": -10.0,
+    "LV@SF": -9.5,
     "ARI@SEA": -8.5,
-    "GB@NE": -3.0,
+    "GB@NE": -3.5,
     "TB@CHI": -6.0,
     "BUF@MIN": 3.0
   },
@@ -156,7 +156,7 @@
     "ARI@SEA": 39.5,
     "GB@NE": 44.5,
     "TB@CHI": 47.5,
-    "BUF@MIN": 44.5
+    "BUF@MIN": 44.0
   },
   "dvoa": {
     "SF": 35.7,
@@ -209,7 +209,7 @@
     "TB@CHI": -1.5,
     "BUF@MIN": 3.5
   },
-  "pulled_at": "2026-11-07 17:04",
+  "pulled_at": "2026-11-08 02:22",
   "yahoo_source": "league page (cookie)",
   "dvoa_season": "2026"
 }
