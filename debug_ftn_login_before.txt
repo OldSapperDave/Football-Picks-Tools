@@ -124,7 +124,7 @@ A type= name= id= ph= text=Forgot Password?
 BUTTON type=submit name= id= ph= text=Sign In
 A type= name= id= ph= text=Sign Up
 A type= name= id= ph= text=
-INPUT type=text name=search id= ph=Search for Players, Teams, Tools, Articles and Media  text=
+INPUT type=text name=search id= ph=Search for Players, Teams, Tools, Articles text=
 A type= name= id= ph= text=
 A type= name= id= ph= text=Fantasy
 A type= name= id= ph= text=DFS
