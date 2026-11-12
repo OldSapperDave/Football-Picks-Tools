@@ -50,11 +50,11 @@ Playoffs:
 3
 4
 Status
-INCOMPLETE
+COMPLETE
 Picks Saved
-0 of 14
+14 of 14
 Tiebreakers
-Not Entered
+Entered
 Available Confidence Points
 1
 2
@@ -93,7 +93,7 @@ matchup information
 @New York (NYG)
 	
 	vs	
-	Washington	1.5	2.5	--	--	Thu 11/12 08:15 PM	
+	Washington	1.5	2.5	2.5	2.5	Thu 11/12 08:15 PM	
 -
 1
 2
@@ -116,7 +116,7 @@ matchup information
 @Detroit
 	
 	vs	
-	New England	2.5	2.5	--	--	Sun 11/15 09:30 AM	
+	New England	2.5	2.5	2.5	2.5	Sun 11/15 09:30 AM	
 -
 1
 2
@@ -139,7 +139,7 @@ matchup information
 Kansas City
 	
 	vs	
-	@Atlanta	3.5	3.5	--	--	Sun 11/15 01:00 PM	
+	@Atlanta	3.5	3.5	3.5	3.5	Sun 11/15 01:00 PM	
 -
 1
 2
@@ -162,7 +162,7 @@ matchup information
 Houston
 	
 	vs	
-	@Cleveland	4.5	4.5	--	--	Sun 11/15 01:00 PM	
+	@Cleveland	4.5	4.5	4.5	4.5	Sun 11/15 01:00 PM	
 -
 1
 2
@@ -185,7 +185,7 @@ matchup information
 @Green Bay
 	
 	vs	
-	Minnesota	3.0	4.5	--	--	Sun 11/15 01:00 PM	
+	Minnesota	3.0	4.5	3.5	3.5	Sun 11/15 01:00 PM	
 -
 1
 2
@@ -208,7 +208,7 @@ matchup information
 Jacksonville
 	
 	vs	
-	@Tennessee	9.5	10.5	--	--	Sun 11/15 01:00 PM	
+	@Tennessee	9.5	10.5	10.5	10.5	Sun 11/15 01:00 PM	
 -
 1
 2
@@ -231,7 +231,7 @@ matchup information
 @Indianapolis
 	
 	vs	
-	Miami	2.5	2.5	--	--	Sun 11/15 01:00 PM	
+	Miami	2.5	2.5	3.5	3.5	Sun 11/15 01:00 PM	
 -
 1
 2
@@ -254,7 +254,7 @@ matchup information
 @New Orleans
 	
 	vs	
-	Carolina	1.5	1.5	--	--	Sun 11/15 01:00 PM	
+	Carolina	1.5	1.5	2.5	2.5	Sun 11/15 01:00 PM	
 -
 1
 2
@@ -277,7 +277,7 @@ matchup information
 Buffalo
 	
 	vs	
-	@New York (NYJ)	7.5	7.5	--	--	Sun 11/15 01:00 PM	
+	@New York (NYJ)	7.5	7.5	8.5	8.5	Sun 11/15 01:00 PM	
 -
 1
 2
@@ -300,7 +300,7 @@ matchup information
 Seattle
 	
 	vs	
-	@Las Vegas	3.0	3.5	--	--	Sun 11/15 04:05 PM	
+	@Las Vegas	3.0	3.5	6.5	6.5	Sun 11/15 04:05 PM	
 -
 1
 2
@@ -323,7 +323,7 @@ matchup information
 Los Angeles (LAR)
 	
 	vs	
-	@Arizona	7.5	9.5	--	--	Sun 11/15 04:05 PM	
+	@Arizona	7.5	9.5	9.5	9.5	Sun 11/15 04:05 PM	
 -
 1
 2
@@ -346,7 +346,7 @@ matchup information
 San Francisco
 	
 	vs	
-	@Dallas	4.0	4.0	--	--	Sun 11/15 04:25 PM	
+	@Dallas	4.0	4.0	4.0	4.0	Sun 11/15 04:25 PM	
 -
 1
 2
@@ -369,7 +369,7 @@ matchup information
 @Cincinnati
 	
 	vs	
-	Pittsburgh	3.5	3.5	--	--	Sun 11/15 08:20 PM	
+	Pittsburgh	3.5	3.5	3.5	3.5	Sun 11/15 08:20 PM	
 -
 1
 2
@@ -392,7 +392,7 @@ matchup information
 @Baltimore
 	
 	vs	
-	Los Angeles (LAC)	5.5	5.5	--	--	Mon 11/16 08:15 PM	
+	Los Angeles (LAC)	5.5	5.5	4.5	4.5	Mon 11/16 08:15 PM	
 -
 1
 2
@@ -495,33 +495,33 @@ W-L
 65-69
 Pick Distribution - Week 10
 Game	Pick Distribution
-@ New York (NYG) (-2.5)	71%	 
-Washington	29%	 
+@ New York (NYG) (-2.5)	73%	 
+Washington	27%	 
 @ Detroit (-2.5)	82%	 
 New England	18%	 
-Kansas City (-3.5)	83%	 
-@ Atlanta	17%	 
-Houston (-4.5)	62%	 
-@ Cleveland	38%	 
-@ Green Bay (-4.5)	82%	 
-Minnesota	18%	 
+Kansas City (-3.5)	85%	 
+@ Atlanta	15%	 
+Houston (-4.5)	64%	 
+@ Cleveland	36%	 
+@ Green Bay (-3.5)	74%	 
+Minnesota	26%	 
 Jacksonville (-10.5)	74%	 
 @ Tennessee	26%	 
-@ Indianapolis (-2.5)	66%	 
-Miami	34%	 
-@ New Orleans (-1.5)	36%	 
-Carolina	64%	 
-Buffalo (-7.5)	85%	 
-@ New York (NYJ)	15%	 
-Seattle (-3.5)	80%	 
-@ Las Vegas	20%	 
-Los Angeles (LAR) (-9.5)	68%	 
-@ Arizona	32%	 
-San Francisco (-4.0)	86%	 
-@ Dallas	14%	 
-@ Cincinnati (-3.5)	72%	 
-Pittsburgh	28%	 
-@ Baltimore (-5.5)	61%	 
+@ Indianapolis (-3.5)	67%	 
+Miami	33%	 
+@ New Orleans (-2.5)	39%	 
+Carolina	61%	 
+Buffalo (-8.5)	87%	 
+@ New York (NYJ)	13%	 
+Seattle (-6.5)	82%	 
+@ Las Vegas	18%	 
+Los Angeles (LAR) (-9.5)	64%	 
+@ Arizona	36%	 
+San Francisco (-4.0)	85%	 
+@ Dallas	15%	 
+@ Cincinnati (-3.5)	71%	 
+Pittsburgh	29%	 
+@ Baltimore (-4.5)	61%	 
 Los Angeles (LAC)	39%	 
 Strategy Tips from PoolGenius
 Week 10 pick analysis
@@ -530,7 +530,7 @@ What winning entries look like
 Why pool size matters
 Weekly vs. season-long strategy
 FREE TRIAL: Expert pick'em picks »
-Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Your privacy controls - WA Consumer Health Privacy Policy  - About Our Ads - Help
+Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Your Privacy Choices  - About Our Ads - Help
 
 Certain Data by Sportradar and Rotowire
 
