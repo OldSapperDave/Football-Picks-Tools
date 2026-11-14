@@ -15,18 +15,17 @@ PIT @ CIN -3.5
 LAC @ BAL -4.5
 
 === DRAFTKINGS ===
-WAS @ NYG -2.5
 NE @ DET -2.5
 KC @ ATL +3
 BUF @ NYJ +8.5
 CAR @ NO -2.5
 HOU @ CLE +4.5
-MIN @ GB -3
+MIN @ GB -2.5
 MIA @ IND -3.5
 JAX @ TEN +10.5
 LAR @ ARI +9.5
 SEA @ LV +6.5
-SF @ DAL +3.5
+SF @ DAL +4.5
 PIT @ CIN -3.5
 LAC @ BAL -4.5
 
