@@ -49,15 +49,15 @@ Thursday, Nov 19, 8:15 pm EST
 Favorite
 @ Houston
 Favorite Pick Percentage
-96%
+97%
 Underdog
 Indianapolis
 Underdog Pick Percentage
-4%
+3%
 HOU		IND
 N/A	Avg. Confidence	N/A
 3-6 (0-4)	Record	3-7 (1-4)
-11.5 pts	Favorite	 
+12.5 pts	Favorite	 
 Sunday, Nov 22, 1:00 pm EST
 Favorite
 @ Buffalo
@@ -75,11 +75,11 @@ Sunday, Nov 22, 1:00 pm EST
 Favorite
 @ Chicago
 Favorite Pick Percentage
-98%
+99%
 Underdog
 New Orleans
 Underdog Pick Percentage
-2%
+1%
 CHI		NO
 N/A	Avg. Confidence	N/A
 7-2 (4-1)	Record	3-6 (2-1)
@@ -109,7 +109,7 @@ Underdog Pick Percentage
 DET		TB
 N/A	Avg. Confidence	N/A
 7-2 (5-0)	Record	3-6 (2-2)
-6.5 pts	Favorite	 
+7.5 pts	Favorite	 
 Sunday, Nov 22, 1:00 pm EST
 Favorite
 @ Kansas City
@@ -127,11 +127,11 @@ Sunday, Nov 22, 1:00 pm EST
 Favorite
 Pittsburgh
 Favorite Pick Percentage
-78%
+84%
 Underdog
 @ Philadelphia
 Underdog Pick Percentage
-22%
+16%
 PIT		PHI
 N/A	Avg. Confidence	N/A
 6-3 (2-3)	Record	2-7 (1-4)
@@ -140,11 +140,11 @@ Sunday, Nov 22, 1:00 pm EST
 Favorite
 @ Carolina
 Favorite Pick Percentage
-72%
+79%
 Underdog
 Baltimore
 Underdog Pick Percentage
-28%
+21%
 CAR		BAL
 N/A	Avg. Confidence	N/A
 4-5 (1-3)	Record	4-6 (3-2)
@@ -153,15 +153,15 @@ Sunday, Nov 22, 4:05 pm EST
 Favorite
 @ Los Angeles (LAC)
 Favorite Pick Percentage
-73%
+75%
 Underdog
 New York (NYJ)
 Underdog Pick Percentage
-27%
+25%
 LAC		NYJ
 N/A	Avg. Confidence	N/A
 1-8 (0-4)	Record	2-8 (1-4)
-3.0 pts	Favorite	 
+3.5 pts	Favorite	 
 Sunday, Nov 22, 4:25 pm EST
 Favorite
 @ Denver
@@ -179,24 +179,24 @@ Sunday, Nov 22, 4:25 pm EST
 Favorite
 Jacksonville
 Favorite Pick Percentage
-90%
+92%
 Underdog
 @ New York (NYG)
 Underdog Pick Percentage
-10%
+8%
 JAX		NYG
 N/A	Avg. Confidence	N/A
 7-2 (3-1)	Record	5-3 (3-2)
-6.0 pts	Favorite	 
+5.5 pts	Favorite	 
 Sunday, Nov 22, 8:20 pm EST
 Favorite
 @ San Francisco
 Favorite Pick Percentage
-77%
+74%
 Underdog
 Minnesota
 Underdog Pick Percentage
-23%
+26%
 SF		MIN
 N/A	Avg. Confidence	N/A
 8-1 (5-0)	Record	7-2 (4-1)
@@ -205,11 +205,11 @@ Monday, Nov 23, 8:15 pm EST
 Favorite
 Cincinnati
 Favorite Pick Percentage
-92%
+94%
 Underdog
 @ Washington
 Underdog Pick Percentage
-8%
+6%
 CIN		WAS
 N/A	Avg. Confidence	N/A
 7-2 (4-1)	Record	3-5 (2-2)
@@ -222,7 +222,7 @@ What winning entries look like
 Why pool size matters
 Weekly vs. season-long strategy
 FREE TRIAL: Expert pick'em picks »
-Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Your Privacy Choices  - About Our Ads - Help
+Yahoo! Sports - NBC Sports Network. - Feedback - Terms and Privacy Policy - Privacy Dashboard  - About Our Ads - Help
 
 Certain Data by Sportradar and Rotowire
 

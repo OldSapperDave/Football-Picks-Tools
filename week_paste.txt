@@ -1,28 +1,28 @@
 === YAHOO ===
-IND @ HOU -11.5
+IND @ HOU -12.5
 MIA @ BUF -16.5
 NO @ CHI -11.5
 TEN @ DAL -8
-TB @ DET -6.5
+TB @ DET -7.5
 ARI @ KC -16.5
 PIT @ PHI +4.5
 BAL @ CAR -2.5
-NYJ @ LAC -3
+NYJ @ LAC -3.5
 LV @ DEN -10
-JAX @ NYG +6
+JAX @ NYG +5.5
 MIN @ SF -3
 CIN @ WAS +6.5
 
 === DRAFTKINGS ===
 IND @ HOU -12.5
-ARI @ KC -16.5
+ARI @ KC -15.5
 BAL @ CAR -2.5
 MIA @ BUF -16.5
 NO @ CHI -11.5
 TEN @ DAL -8.5
-TB @ DET -6.5
+TB @ DET -7
 PIT @ PHI +4.5
-NYJ @ LAC -3.5
+NYJ @ LAC -3
 LV @ DEN -10
 JAX @ NYG +6
 MIN @ SF -3
