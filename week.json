@@ -74,7 +74,7 @@
     "MIA@BUF": -16.5,
     "NO@CHI": -11.5,
     "TEN@DAL": -7.5,
-    "TB@DET": -4.5,
+    "TB@DET": -3.5,
     "PIT@PHI": 3.5,
     "NYJ@LAC": -3.0,
     "LV@DEN": -10.5,
@@ -83,16 +83,16 @@
     "CIN@WAS": 6.0
   },
   "consensus": {
-    "ARI@KC": -16.0,
+    "ARI@KC": -15.5,
     "BAL@CAR": -2.5,
     "MIA@BUF": -16.5,
     "NO@CHI": -11.5,
     "TEN@DAL": -7.5,
-    "TB@DET": -4.5,
+    "TB@DET": -3.5,
     "PIT@PHI": 3.5,
     "NYJ@LAC": -3.0,
     "LV@DEN": -10.5,
-    "JAX@NYG": 6.0,
+    "JAX@NYG": 5.5,
     "MIN@SF": -3.5,
     "CIN@WAS": 6.0
   },
@@ -102,7 +102,7 @@
     "MIA@BUF": -17.0,
     "NO@CHI": -11.5,
     "TEN@DAL": -8.0,
-    "TB@DET": -4.5,
+    "TB@DET": -3.5,
     "PIT@PHI": 4.5,
     "NYJ@LAC": -3.0,
     "LV@DEN": -10.5,
@@ -130,13 +130,13 @@
     "MIA@BUF": 44.5,
     "NO@CHI": 48.5,
     "TEN@DAL": 55.0,
-    "TB@DET": 46.0,
+    "TB@DET": 47.5,
     "PIT@PHI": 37.5,
     "NYJ@LAC": 42.0,
-    "LV@DEN": 40.5,
-    "JAX@NYG": 46.0,
+    "LV@DEN": 41.0,
+    "JAX@NYG": 45.5,
     "MIN@SF": 46.5,
-    "CIN@WAS": 54.0
+    "CIN@WAS": 54.5
   },
   "dvoa": {
     "CIN": 36.5,
@@ -187,7 +187,7 @@
     "MIN@SF": -0.5,
     "CIN@WAS": 7.5
   },
-  "pulled_at": "2026-11-21 18:21",
+  "pulled_at": "2026-11-22 13:02",
   "yahoo_source": "public distribution page",
   "dvoa_season": "2026"
 }

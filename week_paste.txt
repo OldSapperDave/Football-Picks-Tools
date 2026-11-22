@@ -19,7 +19,7 @@ BAL @ CAR -3
 MIA @ BUF -16.5
 NO @ CHI -11.5
 TEN @ DAL -7.5
-TB @ DET -4.5
+TB @ DET -3.5
 PIT @ PHI +3.5
 NYJ @ LAC -3
 LV @ DEN -10.5
