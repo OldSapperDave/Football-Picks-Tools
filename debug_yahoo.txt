@@ -6,8 +6,8 @@ News
 Finance
 Sports
 More
-Mail
-Sign in
+99+
+D
  Pro Football Pick'em
 Pro Football Pick'em
 My Picks & Groups
@@ -15,8 +15,16 @@ Pick Distribution
 Fantasy
 Watch
 Network
-Yahoo Sports Fantasy Pro Football Pickem
-PICK DISTRIBUTION
+BUCCBUDDIES 
+In Groups:
+Sharpest Squares
+Sharpest Squares Navigation
+Overview
+Group Picks
+Weekly Performance
+Message Board
+Members
+Settings
 Week: 
 1
 2
@@ -41,219 +49,572 @@ Playoffs:
 2
 3
 4
-No Spread or Confidence
-Spread Only
-Confidence Only
-Spread and Confidence
-Wednesday, Nov 25, 8:00 pm EST
-Favorite
-@ Los Angeles (LAR)
-Favorite Pick Percentage
-66%
-Underdog
-Green Bay
-Underdog Pick Percentage
-34%
-LAR		GB
-N/A	Avg. Confidence	N/A
-6-4 (2-3)	Record	6-4 (3-2)
-2.5 pts	Favorite	 
-Thursday, Nov 26, 1:00 pm EST
-Favorite
-Chicago
-Favorite Pick Percentage
-40%
-Underdog
-@ Detroit
-Underdog Pick Percentage
-60%
-CHI		DET
-N/A	Avg. Confidence	N/A
-8-2 (3-1)	Record	8-2 (6-0)
-2.5 pts	Favorite	 
-Thursday, Nov 26, 4:30 pm EST
-Favorite
-@ Dallas
-Favorite Pick Percentage
-93%
-Underdog
-Philadelphia
-Underdog Pick Percentage
-7%
-DAL		PHI
-N/A	Avg. Confidence	N/A
-5-6 (2-4)	Record	3-7 (1-3)
-8.5 pts	Favorite	 
-Thursday, Nov 26, 8:20 pm EST
-Favorite
-@ Buffalo
-Favorite Pick Percentage
-77%
-Underdog
-Kansas City
-Underdog Pick Percentage
-23%
-BUF		KC
-N/A	Avg. Confidence	N/A
-9-1 (4-1)	Record	8-2 (3-2)
-3.0 pts	Favorite	 
-Friday, Nov 27, 3:00 pm EST
-Favorite
-Denver
-Favorite Pick Percentage
-89%
-Underdog
-@ Pittsburgh
-Underdog Pick Percentage
-11%
-DEN		PIT
-N/A	Avg. Confidence	N/A
-8-2 (3-2)	Record	6-4 (4-0)
-3.0 pts	Favorite	 
-Sunday, Nov 29, 1:00 pm EST
-Favorite
-@ Cincinnati
-Favorite Pick Percentage
-99%
-Underdog
-New Orleans
-Underdog Pick Percentage
-1%
-CIN		NO
-N/A	Avg. Confidence	N/A
-7-3 (3-1)	Record	3-7 (2-2)
-10.0 pts	Favorite	 
-Sunday, Nov 29, 1:00 pm EST
-Favorite
-New York (NYG)
-Favorite Pick Percentage
-92%
-Underdog
-@ Indianapolis
-Underdog Pick Percentage
-8%
-NYG		IND
-N/A	Avg. Confidence	N/A
-6-3 (2-1)	Record	3-8 (2-3)
-6.5 pts	Favorite	 
-Sunday, Nov 29, 1:00 pm EST
-Favorite
-New York (NYJ)
-Favorite Pick Percentage
-69%
-Underdog
-@ Miami
-Underdog Pick Percentage
-31%
-NYJ		MIA
-N/A	Avg. Confidence	N/A
-3-8 (2-4)	Record	1-9 (0-4)
-3.5 pts	Favorite	 
-Sunday, Nov 29, 1:00 pm EST
-Favorite
-@ Minnesota
-Favorite Pick Percentage
-98%
-Underdog
-Atlanta
-Underdog Pick Percentage
-2%
-MIN		ATL
-N/A	Avg. Confidence	N/A
-7-3 (3-1)	Record	3-7 (2-2)
-6.5 pts	Favorite	 
-Sunday, Nov 29, 1:00 pm EST
-Favorite
-@ Jacksonville
-Favorite Pick Percentage
-99%
-Underdog
-Tennessee
-Underdog Pick Percentage
-1%
-JAX		TEN
-N/A	Avg. Confidence	N/A
-7-3 (4-1)	Record	1-9 (1-4)
-14.5 pts	Favorite	 
-Sunday, Nov 29, 1:00 pm EST
-Favorite
-@ Houston
-Favorite Pick Percentage
-95%
-Underdog
-Baltimore
-Underdog Pick Percentage
-5%
-HOU		BAL
-N/A	Avg. Confidence	N/A
-4-6 (1-4)	Record	4-7 (3-3)
-6.5 pts	Favorite	 
-Sunday, Nov 29, 4:05 pm EST
-Favorite
-@ Los Angeles (LAC)
-Favorite Pick Percentage
-45%
-Underdog
-New England
-Underdog Pick Percentage
-55%
-LAC		NE
-N/A	Avg. Confidence	N/A
-1-9 (0-5)	Record	5-5 (2-4)
-1.5 pts	Favorite	 
-Sunday, Nov 29, 4:25 pm EST
-Favorite
-Washington
-Favorite Pick Percentage
-94%
-Underdog
-@ Arizona
-Underdog Pick Percentage
-6%
-WAS		ARI
-N/A	Avg. Confidence	N/A
-4-5 (1-3)	Record	3-8 (0-4)
-7.5 pts	Favorite	 
-Sunday, Nov 29, 4:25 pm EST
-Favorite
-@ San Francisco
-Favorite Pick Percentage
-90%
-Underdog
-Seattle
-Underdog Pick Percentage
-10%
-SF		SEA
-N/A	Avg. Confidence	N/A
-9-1 (6-0)	Record	6-4 (2-2)
-3.0 pts	Favorite	 
-Sunday, Nov 29, 8:20 pm EST
-Favorite
-@ Cleveland
-Favorite Pick Percentage
-82%
-Underdog
-Las Vegas
-Underdog Pick Percentage
-18%
-CLE		LV
-N/A	Avg. Confidence	N/A
-6-4 (4-0)	Record	4-7 (3-3)
-4.5 pts	Favorite	 
-Monday, Nov 30, 8:15 pm EST
-Favorite
-@ Tampa Bay
-Favorite Pick Percentage
-71%
-Underdog
-Carolina
-Underdog Pick Percentage
-29%
-TB		CAR
-N/A	Avg. Confidence	N/A
-3-7 (1-4)	Record	5-5 (3-2)
-3.0 pts	Favorite	 
+Status
+COMPLETE
+Picks Saved
+16 of 16
+Tiebreakers
+Entered
+Available Confidence Points
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+Deadline: 5 minutes before each game
+
+Save Picks Cancel
+
+More Info
 	
+Favorite
+	
+Favorite Win
+	
+Versus
+	
+Underdog Win
+	
+Underdog
+	Mon	Tue	Final	Status (EST)	Confidence Points
+
+matchup information
+	
+@Los Angeles (LAR)
+	
+	vs	
+	Green Bay	2.5	2.5	2.5	Wed 11/25 08:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+Chicago
+	
+	vs	
+	@Detroit	2.5	2.5	2.5	Thu 11/26 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+@Dallas
+	
+	vs	
+	Philadelphia	8.5	8.5	8.5	Thu 11/26 04:30 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+@Buffalo
+	
+	vs	
+	Kansas City	3.0	3.0	3.0	Thu 11/26 08:20 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+Denver
+	
+	vs	
+	@Pittsburgh	3.0	3.0	3.0	Fri 11/27 03:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+@Cincinnati
+	
+	vs	
+	New Orleans	10.0	10.0	10.0	Sun 11/29 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+New York (NYG)
+	
+	vs	
+	@Indianapolis	6.5	6.5	6.5	Sun 11/29 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+New York (NYJ)
+	
+	vs	
+	@Miami	3.5	3.5	3.5	Sun 11/29 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+@Minnesota
+	
+	vs	
+	Atlanta	6.5	6.5	6.5	Sun 11/29 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+@Jacksonville
+	
+	vs	
+	Tennessee	14.5	14.5	14.5	Sun 11/29 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+@Houston
+	
+	vs	
+	Baltimore	6.5	6.5	6.5	Sun 11/29 01:00 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+@Los Angeles (LAC)
+	
+	vs	
+	New England	1.5	1.5	1.5	Sun 11/29 04:05 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+Washington
+	
+	vs	
+	@Arizona	7.0	7.5	7.5	Sun 11/29 04:25 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+@San Francisco
+	
+	vs	
+	Seattle	3.0	3.0	3.0	Sun 11/29 04:25 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+@Cleveland
+	
+	vs	
+	Las Vegas	4.5	4.5	4.5	Sun 11/29 08:20 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+
+matchup information
+	
+@Tampa Bay
+	
+	vs	
+	Carolina	3.0	3.0	3.0	Mon 11/30 08:15 PM	
+-
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+
+Bold = Winning Team (Spread)	TOTAL POINTS	0
+Tiebreaker 1 Deadline Mon, Nov 30 8:10 pm EST (CAR@TB); Sun, Nov 29 4:05 pm EST (NE@LAC)
+
+Predict the scores for these games:
+
+Carolina		@		Tampa Bay
+New England		@		Los Angeles (LAC)
+Tiebreaker 2 Deadline Wed, Nov 25 7:55 pm EST
+Who will score the MOST points this week?	
+Select Team
+Arizona
+Atlanta
+Baltimore
+Buffalo
+Carolina
+Chicago
+Cincinnati
+Cleveland
+Dallas
+Denver
+Detroit
+Green Bay
+Houston
+Indianapolis
+Jacksonville
+Kansas City
+Las Vegas
+Los Angeles (LAC)
+Los Angeles (LAR)
+Miami
+Minnesota
+New England
+New Orleans
+New York (NYG)
+New York (NYJ)
+Philadelphia
+Pittsburgh
+San Francisco
+Seattle
+Tampa Bay
+Tennessee
+Washington
+
+Who will score the FEWEST points this week?	
+Select Team
+Arizona
+Atlanta
+Baltimore
+Buffalo
+Carolina
+Chicago
+Cincinnati
+Cleveland
+Dallas
+Denver
+Detroit
+Green Bay
+Houston
+Indianapolis
+Jacksonville
+Kansas City
+Las Vegas
+Los Angeles (LAC)
+Los Angeles (LAR)
+Miami
+Minnesota
+New England
+New Orleans
+New York (NYG)
+New York (NYJ)
+Philadelphia
+Pittsburgh
+San Francisco
+Seattle
+Tampa Bay
+Tennessee
+Washington
+
+Deadline: 5 minutes before each game
+
+Save Picks Cancel
+
+My Score
+Week 12
+NA
+0-0
+Total Points
+611 pts
+Rank
+7/10
+W-L
+78-83
+Pick Distribution - Week 12
+Game	Pick Distribution
+@ Los Angeles (LAR) (-2.5)	58%	 
+Green Bay	42%	 
+Chicago (-2.5)	39%	 
+@ Detroit	61%	 
+@ Dallas (-8.5)	66%	 
+Philadelphia	34%	 
+@ Buffalo (-3.0)	65%	 
+Kansas City	35%	 
+Denver (-3.0)	81%	 
+@ Pittsburgh	19%	 
+@ Cincinnati (-10.0)	75%	 
+New Orleans	25%	 
+New York (NYG) (-6.5)	84%	 
+@ Indianapolis	16%	 
+New York (NYJ) (-3.5)	65%	 
+@ Miami	35%	 
+@ Minnesota (-6.5)	87%	 
+Atlanta	13%	 
+@ Jacksonville (-14.5)	64%	 
+Tennessee	36%	 
+@ Houston (-6.5)	79%	 
+Baltimore	21%	 
+@ Los Angeles (LAC) (-1.5)	43%	 
+New England	57%	 
+Washington (-7.5)	75%	 
+@ Arizona	25%	 
+@ San Francisco (-3.0)	84%	 
+Seattle	16%	 
+@ Cleveland (-4.5)	64%	 
+Las Vegas	36%	 
+@ Tampa Bay (-3.0)	60%	 
+Carolina	40%	 
 Strategy Tips from PoolGenius
 Week 12 pick analysis
 How to win pick'em pools
